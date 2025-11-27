@@ -335,4 +335,30 @@ _✍ blog not found_
 
 ---
 
+## Make your AI useful with MCP
+
+<dl>
+  <dt>Description</dt>
+  <dd>Wouldn't it be great if we can use our LLM to answer very specific questions? Wouldn't it be great to move away from a general purpose machine to something tailor made for me or my users? If we could stop asking questions like "What is the area of a sphere?" and more like:
+
+- "What is the status on my last order?"
+- "What are the total fees given to a supplier X?"
+- "How many images have I uploaded this year?"
+
+This talk will go over the MCP protocol, why we care and how to use it to create an AI service that is helpful.</dd>
+</dl>
+
+~~Slides~~  
+~~Video~~  
+~~Blog post~~
+
+By [Tobias Nyholm](https://connect.symfony.com/profile/tobias)  
+💻 on [![github](icon/github.svg) @Nyholm](https://github.com/Nyholm)  <sup>[💚](https://github.com/sponsors/Nyholm)</sup>  
+_✍ blog not found_  
+💬 on [![bluesky](icon/bluesky.svg) @nyholm.bsky.social](https://bsky.app/profile/nyholm.bsky.social)
+· [![twitter](icon/twitter.svg) @TobiasNyholm](https://twitter.com/TobiasNyholm)
+· [![linkedin](icon/linkedin.svg) @tobiasnyholm](https://linkedin.com/in/tobiasnyholm)
+
+---
+
 (this is work in progress)
