@@ -59,6 +59,11 @@ By [Antoine Bluchet](https://connect.symfony.com/profile/soyuka)
 ~~Blog post~~
 
 By [Jérôme Vieilledent](https://connect.symfony.com/profile/jeromevieilledent)
+💻 on [![github](icon/github.svg) @lolautruche](https://github.com/lolautruche)
+✍ on [🌐 lolautruche.github.io](https://lolautruche.github.io)
+💬 on [![bluesky](icon/bluesky.svg) @lolautruche@bsky.social](https://bsky.app/profile/lolautruche.bsky.social)
+· [![twitter](icon/twitter.svg) @jvieilledent](https://twitter.com/jvieilledent)
+· [![linkedin](icon/linkedin.svg) @jeromevieilledent](https://linkedin.com/in/jeromevieilledent)
 
 ---
 
@@ -74,6 +79,11 @@ By [Jérôme Vieilledent](https://connect.symfony.com/profile/jeromevieilledent)
 ~~Blog post~~
 
 By [Timo Bakx](https://connect.symfony.com/profile/timobakx)
+💻 on [![github](icon/github.svg) @timobakx](https://github.com/timobakx)
+✍ on [🌐 timobakx.dev](https://timobakx.dev)  <sup>[![rss](icon/rss.svg)](https://timobakx.dev/index.xml)</sup>
+💬 on [![mastodon](icon/mastodon.svg) @timobakx@phpc.social](https://phpc.social/@timobakx)
+· [![twitter](icon/twitter.svg) @TimoBakx](https://twitter.com/TimoBakx)
+· [![linkedin](icon/linkedin.svg) @timobakx](https://linkedin.com/in/timobakx)
 
 ---
 
@@ -110,6 +120,9 @@ By [Rob Allen](https://connect.symfony.com/profile/akrabat)
 ~~Blog post~~
 
 By [Pauline Vos](https://connect.symfony.com/profile/paulinevos)
+💻 on [![github](icon/github.svg) @paulinevos](https://github.com/paulinevos)
+✍ on [🌐 pauline-vos.nl](https://pauline-vos.nl)
+💬 on [![twitter](icon/twitter.svg) @vanamerongen](https://twitter.com/vanamerongen)
 
 ---
 
@@ -180,6 +193,9 @@ By [Denis Brumann](https://connect.symfony.com/profile/dbrumann)
 ~~Blog post~~
 
 By [Romain Neutron](https://connect.symfony.com/profile/romain)
+💻 on [![github](icon/github.svg) @romainneutron](https://github.com/romainneutron)
+💬 on [![twitter](icon/twitter.svg) @romainneutron](https://twitter.com/romainneutron)
+· [![linkedin](icon/linkedin.svg) @romainneutron](https://linkedin.com/in/romainneutron)
 
 ---
 
@@ -216,6 +232,8 @@ By [Kévin Dunglas](https://connect.symfony.com/profile/dunglas)
 ~~Blog post~~
 
 By [Tac Tacelosky](https://connect.symfony.com/profile/tac)
+💻 on [![github](icon/github.svg) @tacman](https://github.com/tacman)
+💬 on [![linkedin](icon/linkedin.svg) @tacman](https://linkedin.com/in/tacman)
 
 ---
 
@@ -310,6 +328,11 @@ _✍ blog not found_
 ~~Blog post~~
 
 By [Iain Cambridge](https://connect.symfony.com/profile/iaincambridge)
+💻 on [![github](icon/github.svg) @that-guy-iain](https://github.com/that-guy-iain)
+✍ on [🌐 iain.rocks](https://www.iain.rocks)
+💬 on [![bluesky](icon/bluesky.svg) @iain.bsky.social](https://bsky.app/profile/iain.bsky.social)
+· [![twitter](icon/twitter.svg) @that_guy_iain](https://twitter.com/that_guy_iain)
+· [![linkedin](icon/linkedin.svg) @iain-cambridge](https://linkedin.com/in/iain-cambridge)
 
 ---
 
@@ -325,6 +348,7 @@ By [Iain Cambridge](https://connect.symfony.com/profile/iaincambridge)
 ~~Blog post~~
 
 By [Konrad Oboza](https://connect.symfony.com/profile/norzechowicz)
+💻 on [![github](icon/github.svg) @konradoboza](https://github.com/konradoboza)
 
 ---
 
@@ -424,6 +448,11 @@ By [Soner Sayakci](https://connect.symfony.com/profile/shyim)
 ~~Blog post~~
 
 By [Christopher Hertel](https://connect.symfony.com/profile/chrishertel)
+💻 on [![github](icon/github.svg) @chr-hertel](https://github.com/chr-hertel)
+✍ on [🌐 christopher-hertel.de](https://christopher-hertel.de)
+💬 on [![mastodon](icon/mastodon.svg) @chris@phpc.social](https://phpc.social/@chris)
+· [![twitter](icon/twitter.svg) @el_stoffel](https://twitter.com/el_stoffel)
+· [![linkedin](icon/linkedin.svg) @christopher-hertel](https://linkedin.com/in/christopher-hertel)
 
 ---
 
@@ -478,6 +507,10 @@ By [Alexander Schranz](https://connect.symfony.com/profile/alexander-schranz)
 ~~Blog post~~
 
 By [Adrien Roches](https://connect.symfony.com/profile/aroches)
+💻 on [![github](icon/github.svg) @neirda24](https://github.com/neirda24)
+✍ on [🌐 adrien-roches.fr](https://www.adrien-roches.fr)
+💬 on [![twitter](icon/twitter.svg) @AdrienRoches](https://twitter.com/AdrienRoches)
+· [![linkedin](icon/linkedin.svg) @adrien-roches](https://linkedin.com/in/adrien-roches)
 
 ---
 
@@ -511,6 +544,7 @@ By [Stefan Koopmanschap](https://connect.symfony.com/profile/skoop)
 ~~Blog post~~
 
 By [Oskar Barcz](https://connect.symfony.com/profile/obarcz)
+💻 on [![github](icon/github.svg) @oskarbarcz](https://github.com/oskarbarcz)
 
 ---
 
@@ -526,6 +560,10 @@ By [Oskar Barcz](https://connect.symfony.com/profile/obarcz)
 ~~Blog post~~
 
 By [Herve Leclerc](https://connect.symfony.com/profile/herveleclerc)
+💻 on [![github](icon/github.svg) @herveleclerc](https://github.com/herveleclerc)
+✍ on [🌐 blog.alterway.fr](https://blog.alterway.fr/author/herve-leclerc.html)
+💬 on [![twitter](icon/twitter.svg) @HerveLeclerc_AW](https://twitter.com/HerveLeclerc_AW)
+· [![linkedin](icon/linkedin.svg) @herveleclerc](https://linkedin.com/in/herveleclerc)
 
 ---
 
@@ -561,6 +599,9 @@ _✍ blog not found_
 ~~Blog post~~
 
 By [Mitchel Vroege](https://connect.symfony.com/profile/mvroege)
+✍ on [🌐 mitchelvroege.nl](https://mitchelvroege.nl)
+💬 on [![twitter](icon/twitter.svg) @mitchelanthony](https://twitter.com/mitchelanthony)
+· [![linkedin](icon/linkedin.svg) @mitchel-vroege](https://linkedin.com/in/mitchel-vroege)
 
 ---
 
@@ -636,6 +677,7 @@ By [Nils Adermann](https://connect.symfony.com/profile/naderman)
 ~~Blog post~~
 
 By [Alejandro Reyes Amaro](https://connect.symfony.com/profile/areyesamaro)
+💬 on [![linkedin](icon/linkedin.svg) @reyes-amaro-alejandro](https://linkedin.com/in/reyes-amaro-alejandro)
 
 ---
 
@@ -669,6 +711,7 @@ By [Kris Wallsmith](https://connect.symfony.com/profile/kriswallsmith)
 ~~Blog post~~
 
 By [Valentin Rusev](https://connect.symfony.com/profile/vrusev)
+💻 on [![github](icon/github.svg) @valentinboyanov](https://github.com/valentinboyanov)
 
 ---
 
@@ -684,6 +727,7 @@ By [Valentin Rusev](https://connect.symfony.com/profile/vrusev)
 ~~Blog post~~
 
 By [Brice Blondiau](https://connect.symfony.com/profile/briceblondiau)
+💬 on [![linkedin](icon/linkedin.svg) @brice-blondiau-1253b92](https://linkedin.com/in/brice-blondiau-1253b92)
 
 ---
 
@@ -736,6 +780,10 @@ By [Benjamin Eberlei](https://connect.symfony.com/profile/beberlei)
 ~~Blog post~~
 
 By [Stiven Llupa](https://connect.symfony.com/profile/sllupa)
+💻 on [![github](icon/github.svg) @llupa](https://github.com/llupa)
+✍ on [🌐 llupa.rocks](https://llupa.rocks)
+💬 on [![twitter](icon/twitter.svg) @llupa](https://twitter.com/llupa)
+· [![linkedin](icon/linkedin.svg) @stiven-llupa-9a085946](https://linkedin.com/in/stiven-llupa-9a085946)
 
 ---
 
