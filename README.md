@@ -313,4 +313,26 @@ _✍ blog not found_
 
 ---
 
+## Rubber Duck Driven Dev: Use MCPs to Develop and Deploy Safely
+
+<dl>
+  <dt>Description</dt>
+  <dd>Talk to the duck, ship real features. See how to turn clear prompts into branch creation, database queries, a new revenue card and API endpoint, gated pushes and merges, and even backup and restore. Reproducible, auditable, Symfony-ready. No vibes. Just controlled automation that gets work done.
+
+AI should feel like a power tool, not a vibe. In this live demo we use an AI assistant to perform real, auditable development tasks while the developer stays in control. We will query project details, inspect PostgreSQL for total revenue, fetch environment URLs, take a backup, create a feature branch called revenue-card, generate a React dashboard card plus a matching API endpoint, commit and push to the remote, then merge to main. Finally, we will restore from backup to prove reversibility. Every step is driven by structured prompts that engage Upun's MCP server, versioned in Git, validated in production-grade preview environments on Upsun, and observable end to end. You will leave with a clear mental model and practical patterns for using conversational control to accelerate Symfony work without sacrificing standards, security, or sanity.</dd>
+</dl>
+
+~~Slides~~  
+~~Video~~  
+~~Blog post~~
+
+By [Greg Qualls](https://connect.symfony.com/profile/gregqualls)  
+💻 on [![github](icon/github.svg) @gregqualls](https://github.com/gregqualls)  
+_✍ blog not found_  
+💬 on [![bluesky](icon/bluesky.svg) @gregqualls.com](https://bsky.app/profile/gregqualls.com)
+· [![twitter](icon/twitter.svg) @gregqualls](https://twitter.com/gregqualls)
+· [![linkedin](icon/linkedin.svg) @gregqualls](https://linkedin.com/in/gregqualls)
+
+---
+
 (this is work in progress)
