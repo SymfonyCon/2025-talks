@@ -193,4 +193,23 @@ _✍ blog not found_
 
 ---
 
+## Distributed Transactions in Symfony
+
+<dl>
+  <dt>Description</dt>
+  <dd>In microservice or event-driven architectures you might find yourself having to solve issues which are simple when working with monolithic applications. One of these challenges is distributed transactions, i.e., performing an action across multiple services can be safely reversed when something fails along the call chain. The Saga pattern is an established approach to make this happen. Let's have a look at what it is, how we can implement it in a modern Symfony application and when we might want to avoid it.</dd>
+</dl>
+
+[Slides](https://speakerdeck.com/dbrumann/distributed-transactions-with-symfony)  
+~~Video~~  
+~~Blog post~~
+
+By [Denis Brumann](https://connect.symfony.com/profile/dbrumann)  
+💻 on [![github](icon/github.svg) @dbrumann](https://github.com/dbrumann)  
+_✍ blog not found_  
+💬 on [![mastodon](icon/mastodon.svg) @dbrumann@mastodon.social](https://mastodon.social/@dbrumann)
+· [![linkedin](icon/linkedin.svg) @dbrumann](https://www.linkedin.com/in/dbrumann)
+
+---
+
 (this is work in progress)
