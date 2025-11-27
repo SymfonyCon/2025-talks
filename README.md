@@ -392,4 +392,22 @@ By [Robin Chalas](https://connect.symfony.com/profile/chalas_r)
 
 ---
 
+## From PR to launch: how code becomes product narrative
+
+<dl>
+  <dt>Description</dt>
+  <dd>...</dd>
+</dl>
+
+~~Slides~~  
+~~Video~~  
+~~Blog post~~
+
+By [Céleste van der Watt](https://connect.symfony.com/profile/cvanderwatt)  
+_✍ blog not found_  
+💬 on [![twitter](icon/twitter.svg) @celereeee](https://twitter.com/celereeee)
+· [![linkedin](icon/linkedin.svg) @cvanderwatt](https://linkedin.com/in/cvanderwatt)
+
+---
+
 (this is work in progress)
