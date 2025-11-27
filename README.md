@@ -24,7 +24,7 @@ By [Fabien Potencier](https://connect.symfony.com/profile/fabpot)
 💬 on [![bluesky](icon/bluesky.svg) @fabien.potencier.org](https://bsky.app/profile/fabien.potencier.org)
 · [![twitter](icon/twitter.svg) @fabpot](https://twitter.com/fabpot)
 · [![mastodon](icon/mastodon.svg) @fabpot@mastodon.social](https://mastodon.social/@fabpot)
-· [![linkedin](icon/linkedin.svg) @fabienpotencier](https://www.linkedin.com/in/fabienpotencier)
+· [![linkedin](icon/linkedin.svg) @fabienpotencier](https://linkedin.com/in/fabienpotencier)
 
 ---
 
@@ -46,7 +46,7 @@ By [Antoine Bluchet](https://connect.symfony.com/profile/soyuka)
 💬 on [![bluesky](icon/bluesky.svg) @soyuka.me](https://bsky.app/profile/soyuka.me)
 · [![mastodon](icon/mastodon.svg) @soyuka@phpc.social](https://phpc.social/@soyuka)
 · [![twitter](icon/twitter.svg) @s0yuka](https://x.com/s0yuka)
-· [![linkedin](icon/linkedin.svg) @soyuka](https://www.linkedin.com/in/soyuka)
+· [![linkedin](icon/linkedin.svg) @soyuka](https://linkedin.com/in/soyuka)
 
 ---
 
@@ -76,7 +76,7 @@ _✍ blog not found_
 💬 on [![bluesky](icon/bluesky.svg) @lolautruche.bsky.social](https://bsky.app/profile/lolautruche.bsky.social)
 · [![mastodon](icon/mastodon.svg) @lolautruche@piaille.fr](https://piaille.fr/@lolautruche)
 · [![twitter](icon/twitter.svg) @jvieilledent](https://twitter.com/jvieilledent)
-· [![linkedin](icon/linkedin.svg) @jeromevieilledent](https://www.linkedin.com/in/jeromevieilledent)
+· [![linkedin](icon/linkedin.svg) @jeromevieilledent](https://linkedin.com/in/jeromevieilledent)
 
 ---
 
@@ -101,7 +101,7 @@ By [Timo Bakx](https://connect.symfony.com/profile/timobakx)
 💬 on [![mastodon](icon/mastodon.svg) @timobakx@phpc.social](https://phpc.social/@timobakx)
 · [![bluesky](icon/bluesky.svg) @timobakx.bsky.social](https://bsky.app/profile/timobakx.bsky.social)
 · [![twitter](icon/twitter.svg) @TimoBakx](https://twitter.com/TimoBakx)
-· [![linkedin](icon/linkedin.svg) @pseudo](https://www.linkedin.com/in/pseudo)
+· [![linkedin](icon/linkedin.svg) @timobakx](https://linkedin.com/in/timobakx)
 
 ---
 
@@ -122,7 +122,7 @@ By [Rob Allen](https://connect.symfony.com/profile/akrabat)
 💬 on [![mastodon](icon/mastodon.svg) @rob@akrabat.com](https://social.akrabat.com/@rob)
 · [![bluesky](icon/bluesky.svg) @akrabat.com](https://bsky.app/profile/akrabat.com)
 · [![twitter](icon/twitter.svg) @akrabat](https://twitter.com/akrabat)
-· [![linkedin](icon/linkedin.svg) @akrabat](https://www.linkedin.com/in/akrabat/)
+· [![linkedin](icon/linkedin.svg) @akrabat](https://linkedin.com/in/akrabat)
 
 ---
 
@@ -145,7 +145,7 @@ By [Pauline Vos](https://connect.symfony.com/profile/paulinevos)
 💬 on [![mastodon](icon/mastodon.svg) @vanamerongen@phpc.social](https://phpc.social/@vanamerongen)
 · [![bluesky](icon/bluesky.svg) @pauline-vos.nl](https://bsky.app/profile/pauline-vos.nl)
 · [![twitter](icon/twitter.svg) @vanamerongen](https://twitter.com/vanamerongen)
-· [![linkedin](icon/linkedin.svg) @paulinepvos](https://www.linkedin.com/in/paulinepvos/)
+· [![linkedin](icon/linkedin.svg) @paulinepvos](https://linkedin.com/in/paulinepvos/)
 
 ---
 
@@ -169,7 +169,7 @@ By [Alexandre Salomé](https://connect.symfony.com/profile/alexandresalome)
 💻 on [![github](icon/github.svg) @alexandresalome](https://github.com/alexandresalome)  
 ✍ on [🌐 alexandre.salome.fr/blog](https://alexandre.salome.fr/blog/)  
 💬 on [![twitter](icon/twitter.svg) @alexandresalome](https://twitter.com/alexandresalome)
-· [![linkedin](icon/linkedin.svg) @alexandresalome](https://www.linkedin.com/in/alexandresalome)
+· [![linkedin](icon/linkedin.svg) @alexandresalome](https://linkedin.com/in/alexandresalome)
 
 ---
 
@@ -208,7 +208,7 @@ By [Denis Brumann](https://connect.symfony.com/profile/dbrumann)
 💻 on [![github](icon/github.svg) @dbrumann](https://github.com/dbrumann)  
 _✍ blog not found_  
 💬 on [![mastodon](icon/mastodon.svg) @dbrumann@mastodon.social](https://mastodon.social/@dbrumann)
-· [![linkedin](icon/linkedin.svg) @dbrumann](https://www.linkedin.com/in/dbrumann)
+· [![linkedin](icon/linkedin.svg) @dbrumann](https://linkedin.com/in/dbrumann)
 
 ---
 
