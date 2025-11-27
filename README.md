@@ -77,3 +77,28 @@ By [Jérôme Vieilledent](https://connect.symfony.com/profile/lolautruche)
 · [![mastodon](icon/mastodon.svg) @lolautruche@piaille.fr](https://piaille.fr/@lolautruche)
 · [![twitter](icon/twitter.svg) @jvieilledent](https://twitter.com/jvieilledent)
 · [![linkedin](icon/linkedin.svg) @jeromevieilledent](https://www.linkedin.com/in/jeromevieilledent)
+
+---
+
+## Developing the developer: Journaling with AI
+
+<dl>
+  <dt>Description</dt>
+  <dd>In order to be able to show growth and improve myself as a developer and coworker, I need a system. Previous attempts at journaling failed, but with the rise of LLM and AI, there is a new option.
+
+In this talk, I explain my journaling system, how it works for me, and how you can use the open sourced template to make it your own.
+
+This is for developers: it is not an app, nor a SaaS. It's something you can use within your own IDE, with your own workflow, and your own modifications.</dd>
+</dl>
+
+~~Slides~~  
+~~Video~~  
+~~Blog post~~
+
+By [Timo Bakx](https://connect.symfony.com/profile/timobakx)  
+💻 on [![github](icon/github.svg) @TimoBakx](https://github.com/TimoBakx)  
+✍ on [🌐 timobakx.dev](https://timobakx.dev/)  <sup>[![rss](icon/rss.svg)](https://timobakx.dev/feed.xml)</sup>  
+💬 on [![mastodon](icon/mastodon.svg) @timobakx@phpc.social](https://phpc.social/@timobakx)
+· [![bluesky](icon/bluesky.svg) @timobakx.bsky.social](https://bsky.app/profile/timobakx.bsky.social)
+· [![twitter](icon/twitter.svg) @TimoBakx](https://twitter.com/TimoBakx)
+· [![linkedin](icon/linkedin.svg) @pseudo](https://www.linkedin.com/in/pseudo)
