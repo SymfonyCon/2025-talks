@@ -274,4 +274,43 @@ By [Kévin Dunglas](https://connect.symfony.com/profile/dunglas)
 
 ---
 
+## Search with Meilisearch, with some AI
+
+<dl>
+  <dt>Description</dt>
+  <dd>In this fast-paced talk, we'll walk through a complete life-cycle of working with a set of data, starting with a CSV file and ending with an AI-powered semantic search that's fast and beautiful.
+
+To do this, we'll use Meilisearch, the same open source search engine that po
+wers Symfony documentation. Meilisearch has recently added the ability to store vectors, making it easy to start with integrating AI into your application.
+
+Symfony has some excellent tools for working with the data. We'll walk through them, starting with "symfony new --webapp my app" and then composer require a bunch of time-saving tools for Radid Application Development
+
+* create an entity (make:entity -a)
+* configure a console command (survos:make:command app:load)
+* implement the load command, using CsvReader and ObjectMapper
+* configure the api resource by tweaking some entity attributes so we'll have a readonly API endpoint
+* make:admin:entity and make:admin:dashboard to create a way to view the imported data using EasyAdmin
+* add some more entity attributes and create and configure a meili index
+* import the data from doctrine to meilisearch
+* configure a twig viewer (that renders in javascript!)
+
+At this point we have a fast, powerful full-text search and filtering system that will be the envy of your peers. But there's more!
+
+We'll setup an OpenAI account so we can create semantic vectors and store them, and add an embedder to meilisearch settings, and suddenly we have ai-powered semantic searcher.
+
+Amazing, all of this happens with very few LOC (Lines of Code). Knowing what tools are available and how to configure them makes this possible, and the purpose of this talk is to demonstrate.</dd>
+</dl>
+
+~~Slides~~  
+~~Video~~  
+~~Blog post~~
+
+By [Tac (Michael) Tacelosky](https://connect.symfony.com/profile/tacman1123)  
+💻 on [![github](icon/github.svg) @tacman](https://github.com/tacman)  
+_✍ blog not found_  
+💬 on [![bluesky](icon/bluesky.svg) @tacman1123.bsky.social](https://bsky.app/profile/tacman1123.bsky.social)
+· [![linkedin](icon/linkedin.svg) @tacman](https://linkedin.com/in/tacman)
+
+---
+
 (this is work in progress)
