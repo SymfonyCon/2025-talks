@@ -510,5 +510,26 @@ _✍ blog not found_
 
 ---
 
+## Installing Symfony with Symfony using the Browser
+
+<dl>
+  <dt>Description</dt>
+  <dd>Composer is the go-to tool for distributing Symfony applications—but when your target audience includes end users or less technical stakeholders, the CLI can be a barrier. What if installing a Symfony app was as simple as uploading a single file to your server and opening it in a browser? In this talk, I'll walk you through how we use Symfony to install Symfony applications packaged as a single, self-contained PHP file with just a web interface in the browser.</dd>
+</dl>
+
+[Slides](https://speakerdeck.com/shyim/installing-symfony-with-symfony-using-the-browser)  
+~~Video~~  
+~~Blog post~~
+
+By [Soner Sayakci](https://connect.symfony.com/profile/shyim)  
+💻 on [![github](icon/github.svg) @shyim](https://github.com/shyim)  <sup>[💚](https://github.com/sponsors/shyim)</sup>  
+✍ on [🌐 shyim.me/blog](https://shyim.me/blog/)  <sup>[![rss](icon/rss.svg)](https://shyim.me/blog/index.xml)</sup>  
+💬 on [![mastodon](icon/mastodon.svg) @shyim@phpc.social](https://phpc.social/@shyim)
+· [![bluesky](icon/bluesky.svg) @shyim.de](https://bsky.app/profile/shyim.de)
+· [![twitter](icon/twitter.svg) @shyim97](https://twitter.com/shyim97)
+· [![linkedin](icon/linkedin.svg) @shyim](https://linkedin.com/in/shyim)
+
+---
+
 
 (this is work in progress)
