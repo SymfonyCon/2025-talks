@@ -61,7 +61,6 @@ sed -n '/^By \[/,/^---/p' README.md | head -20 | cat -A
 ```
 
 ### 9. Git Workflow
-- Work on branch: `claude/add-2026-talks-[session-id]`
 - Commit in batches (header, talks, speaker details batch 1, 2, 3)
 - Merge main branch content before pushing
 - Push to designated branch
