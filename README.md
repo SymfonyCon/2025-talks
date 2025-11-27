@@ -163,6 +163,8 @@ _✍ blog not found_
 ~~Blog post~~
 
 By [Denis Brumann](https://connect.symfony.com/profile/dbrumann)
+💻 on [![github](icon/github.svg) @dbrumann](https://github.com/dbrumann)
+✍ on [🌐 brumann.de](https://brumann.de/)
 
 ---
 
@@ -249,6 +251,11 @@ _✍ blog not found_
 ~~Blog post~~
 
 By [Tobias Nyholm](https://connect.symfony.com/profile/tobias)
+💻 on [![github](icon/github.svg) @Nyholm](https://github.com/Nyholm)  <sup>[💚](https://github.com/sponsors/Nyholm)</sup>
+✍ on [🌐 tnyholm.se](https://tnyholm.se/)
+💬 on [![bluesky](icon/bluesky.svg) @nyholm.bsky.social](https://bsky.app/profile/nyholm.bsky.social)
+· [![twitter](icon/twitter.svg) @TobiasNyholm](https://twitter.com/TobiasNyholm)
+· [![linkedin](icon/linkedin.svg) @tobiasnyholm](https://linkedin.com/in/tobiasnyholm)
 
 ---
 
@@ -391,6 +398,9 @@ _✍ blog not found_
 ~~Blog post~~
 
 By [Soner Sayakci](https://connect.symfony.com/profile/shyim)
+💻 on [![github](icon/github.svg) @shyim](https://github.com/shyim)
+✍ on [🌐 shyim.me](https://shyim.me/)
+💬 on [![linkedin](icon/linkedin.svg) @shyim](https://linkedin.com/in/shyim)
 
 ---
 
@@ -429,6 +439,9 @@ By [Christopher Hertel](https://connect.symfony.com/profile/chrishertel)
 ~~Blog post~~
 
 By [Anna Filina](https://connect.symfony.com/profile/afilina)
+💻 on [![github](icon/github.svg) @afilina](https://github.com/afilina)
+✍ on [🌐 afilina.com](https://afilina.com)
+💬 on [![twitter](icon/twitter.svg) @afilina](https://twitter.com/afilina)
 
 ---
 
@@ -480,6 +493,9 @@ By [Adrien Roches](https://connect.symfony.com/profile/aroches)
 ~~Blog post~~
 
 By [Stefan Koopmanschap](https://connect.symfony.com/profile/skoop)
+💻 on [![github](icon/github.svg) @skoop](https://github.com/skoop)
+💬 on [![mastodon](icon/mastodon.svg) @Skoop@phpc.social](https://phpc.social/@Skoop)
+· [![linkedin](icon/linkedin.svg) @stefankoopmanschap](https://linkedin.com/in/stefankoopmanschap)
 
 ---
 
@@ -579,6 +595,11 @@ _✍ blog not found_
 ~~Blog post~~
 
 By [Sebastian Bergmann](https://connect.symfony.com/profile/sebastian)
+💻 on [![github](icon/github.svg) @sebastianbergmann](https://github.com/sebastianbergmann)
+✍ on [🌐 sebastian-bergmann.de](https://sebastian-bergmann.de/)
+💬 on [![mastodon](icon/mastodon.svg) @sebastian@phpc.social](https://phpc.social/@sebastian)
+· [![twitter](icon/twitter.svg) @s_bergmann](https://twitter.com/s_bergmann)
+· [![linkedin](icon/linkedin.svg) @sebastian-bergmann-phpunit](https://linkedin.com/in/sebastian-bergmann-phpunit)
 
 ---
 
@@ -630,6 +651,9 @@ By [Alejandro Reyes Amaro](https://connect.symfony.com/profile/areyesamaro)
 ~~Blog post~~
 
 By [Kris Wallsmith](https://connect.symfony.com/profile/kriswallsmith)
+💻 on [![github](icon/github.svg) @kriswallsmith](https://github.com/kriswallsmith)
+✍ on [🌐 kriswallsmith.net](https://kriswallsmith.net)
+💬 on [![twitter](icon/twitter.svg) @kriswallsmith](https://twitter.com/kriswallsmith)
 
 ---
 
@@ -675,6 +699,9 @@ By [Brice Blondiau](https://connect.symfony.com/profile/briceblondiau)
 ~~Blog post~~
 
 By [Titouan Galopin](https://connect.symfony.com/profile/tgalopin)
+💻 on [![github](icon/github.svg) @tgalopin](https://github.com/tgalopin)
+✍ on [🌐 titouangalopin.com](https://titouangalopin.com)
+💬 on [![twitter](icon/twitter.svg) @titouangalopin](https://twitter.com/titouangalopin)
 
 ---
 
@@ -690,6 +717,10 @@ By [Titouan Galopin](https://connect.symfony.com/profile/tgalopin)
 ~~Blog post~~
 
 By [Benjamin Eberlei](https://connect.symfony.com/profile/beberlei)
+💻 on [![github](icon/github.svg) @beberlei](https://github.com/beberlei)  <sup>[💚](https://github.com/sponsors/beberlei)</sup>
+✍ on [🌐 beberlei.de](https://www.beberlei.de/)
+💬 on [![mastodon](icon/mastodon.svg) @beberlei@phpc.social](https://phpc.social/@beberlei)
+· [![twitter](icon/twitter.svg) @beberlei](https://twitter.com/beberlei)
 
 ---
 
