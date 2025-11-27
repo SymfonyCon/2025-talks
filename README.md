@@ -1,30 +1,22 @@
 # [SymfonyCon - Amsterdam 2025](https://live.symfony.com/2025-amsterdam-con/schedule) talks
 
-> [!IMPORTANT]  
-> <ins>If you’re a speaker, please consider sharing your insights in a blog post</ins>, it would really help beginners and uplift the entire community! 🤗
+> [!IMPORTANT]
+> It's unfortunate that [videos aren't hosted on YouTube anymore](https://www.youtube.com/@SymfonyTv/videos), and most are [behind a paywall](https://live.symfony.com/replay), even years later 😔. <ins>If you're a speaker, please consider sharing your insights in a blog post</ins>. It would really help beginners and uplift the entire community! 🤗
 
-> [!NOTE]  
+> [!NOTE]
 > - All talks are in **English**.
 > - You can send feedback and love to speakers on their social networks.
-> - Social posts during the event: [Blusky](https://bsky.app/search?q=%23symfonycon+since%3A2025-11-26+until%3A2025-11-30) · [Mastodon](https://mastodon.social/tags/symfonycon) · [Twitter](https://x.com/search?q=(%23symfonycon%20OR%20%40symfonycon)%20until%3A2025-11-30%20since%3A2025-11-26%20-filter%3Areplies&src=typed_query)
-
+> - Social posts during the event: [Blusky](https://bsky.app/search?q=%23symfonycon+since%3A2025-11-27+until%3A2025-11-30) · [Mastodon](https://mastodon.social/tags/symfonycon) · [Twitter](https://x.com/search?f=live&q=%28%23symfonycon+OR+%40symfonycon%29+until%3A2025-11-30+since%3A2025-11-27+-filter%3Areplies)
 
 ---
 
-## Keynote · 20 years of Symfony, what's next?
+## Keynote
 
-[Slides](https://speakerdeck.com/fabpot/20-years-of-symfony-whats-next)  
-~~Video~~  
-[Symfony 8 page](http://symfony.com/8)  
-[Symfony curated new features](https://symfony.com/blog/symfony-7-4-curated-new-features)
+~~Slides~~
+~~Video~~
+~~Blog post~~
 
-By [Fabien Potencier](https://connect.symfony.com/profile/fabpot)  
-💻 on [![github](icon/github.svg) @fabpot](https://github.com/fabpot)  <sup>[💚](https://github.com/sponsors/fabpot)</sup>  
-✍ on [🌐 fabien.potencier.org](https://fabien.potencier.org)  
-💬 on [![bluesky](icon/bluesky.svg) @fabien.potencier.org](https://bsky.app/profile/fabien.potencier.org)
-· [![twitter](icon/twitter.svg) @fabpot](https://twitter.com/fabpot)
-· [![mastodon](icon/mastodon.svg) @fabpot@mastodon.social](https://mastodon.social/@fabpot)
-· [![linkedin](icon/linkedin.svg) @fabienpotencier](https://linkedin.com/in/fabienpotencier)
+By [Fabien Potencier](https://connect.symfony.com/profile/fabpot)
 
 ---
 
@@ -32,21 +24,14 @@ By [Fabien Potencier](https://connect.symfony.com/profile/fabpot)
 
 <dl>
   <dt>Description</dt>
-  <dd>The Symfony ecosystem is constantly evolving to ease developer experience and optimize application efficiency. New Symfony components, such as JSON Streamer, are at the forefront of this evolution, raising the bar for modern web application performance.
-We'll take a modern application built with API Platform and supercharge it, showcasing how this new component, along with the efficiency of FrankenPHP in worker mode, can be used to achieve significant performance gains. This talk will provide concrete benchmarks and practical use cases, demonstrating how you can build faster, more efficient applications.</dd>
+  <dd>The Symfony ecosystem is constantly evolving to ease developer experience and optimize application efficiency. This talk showcases new components like JSON Streamer and demonstrates FrankenPHP's capabilities in pushing performance boundaries.</dd>
 </dl>
 
-[Slides](https://speakerdeck.com/soyuka/2025-performance-milestone-for-the-symfony-ecosystem)  
-~~Video~~  
-[Blog post](https://soyuka.me/2025-performance-milestone-for-the-symfony-ecosystem/)
+~~Slides~~
+~~Video~~
+~~Blog post~~
 
-By [Antoine Bluchet](https://connect.symfony.com/profile/soyuka)  
-💻 on [![github](icon/github.svg) @soyuka](https://github.com/soyuka)  <sup>[💚](https://github.com/sponsors/pseudo)</sup>  
-✍ on [🌐 soyuka.me](https://soyuka.me/)  <sup>[![rss](icon/rss.svg)](https://soyuka.me/index.xml)</sup>  
-💬 on [![bluesky](icon/bluesky.svg) @soyuka.me](https://bsky.app/profile/soyuka.me)
-· [![mastodon](icon/mastodon.svg) @soyuka@phpc.social](https://phpc.social/@soyuka)
-· [![twitter](icon/twitter.svg) @s0yuka](https://x.com/s0yuka)
-· [![linkedin](icon/linkedin.svg) @soyuka](https://linkedin.com/in/soyuka)
+By [Antoine Bluchet](https://connect.symfony.com/profile/soyuka)
 
 ---
 
@@ -54,29 +39,14 @@ By [Antoine Bluchet](https://connect.symfony.com/profile/soyuka)
 
 <dl>
   <dt>Description</dt>
-  <dd>How can you fairly distribute thousands of taxi rides each month while respecting complex business rules and ensuring both performance and scalability? That’s the challenge we tackled with Winbook, our ride allocation engine built entirely in PHP with Symfony.
-
-In this talk, I’ll take you behind the scenes of this production system, which handles a significant and growing volume of rides. We’ll explore how we leveraged Symfony components like Scheduler, Messenger, Notifier, and API Platform to build a robust, responsive, and scalable architecture.
-
-We’ll cover:
-* The business rules that drive ride allocation (such as local taxi licenses, driver behavior, etc.)
-* The algorithmic choices made to ensure fairness and efficiency
-* The technical challenges of implementing a real-time engine in PHP
-
-This talk is for anyone who believes PHP can be both powerful and performant — and who enjoys seeing real-world code solving real-world problems.</dd>
+  <dd>Building a ride allocation engine in PHP that handles thousands of taxi rides monthly. This talk explores using Symfony components like Scheduler, Messenger, and Notifier to create a robust mobility orchestration system.</dd>
 </dl>
 
-~~Slides~~  
-~~Video~~  
+~~Slides~~
+~~Video~~
 ~~Blog post~~
 
-By [Jérôme Vieilledent](https://connect.symfony.com/profile/lolautruche)  
-💻 on [![github](icon/github.svg) @lolautruche](https://github.com/lolautruche)  
-_✍ blog not found_  
-💬 on [![bluesky](icon/bluesky.svg) @lolautruche.bsky.social](https://bsky.app/profile/lolautruche.bsky.social)
-· [![mastodon](icon/mastodon.svg) @lolautruche@piaille.fr](https://piaille.fr/@lolautruche)
-· [![twitter](icon/twitter.svg) @jvieilledent](https://twitter.com/jvieilledent)
-· [![linkedin](icon/linkedin.svg) @jeromevieilledent](https://linkedin.com/in/jeromevieilledent)
+By [Jérôme Vieilledent](https://connect.symfony.com/profile/jeromevieilledent)
 
 ---
 
@@ -84,24 +54,14 @@ _✍ blog not found_
 
 <dl>
   <dt>Description</dt>
-  <dd>In order to be able to show growth and improve myself as a developer and coworker, I need a system. Previous attempts at journaling failed, but with the rise of LLM and AI, there is a new option.
-
-In this talk, I explain my journaling system, how it works for me, and how you can use the open sourced template to make it your own.
-
-This is for developers: it is not an app, nor a SaaS. It's something you can use within your own IDE, with your own workflow, and your own modifications.</dd>
+  <dd>An open-source journaling system using AI and LLMs for developer growth tracking. This talk demonstrates how to integrate journaling capabilities within existing IDE workflows to help developers track and improve their skills.</dd>
 </dl>
 
-~~Slides~~  
-~~Video~~  
+~~Slides~~
+~~Video~~
 ~~Blog post~~
 
-By [Timo Bakx](https://connect.symfony.com/profile/timobakx)  
-💻 on [![github](icon/github.svg) @TimoBakx](https://github.com/TimoBakx)  
-✍ on [🌐 timobakx.dev](https://timobakx.dev/)  <sup>[![rss](icon/rss.svg)](https://timobakx.dev/feed.xml)</sup>  
-💬 on [![mastodon](icon/mastodon.svg) @timobakx@phpc.social](https://phpc.social/@timobakx)
-· [![bluesky](icon/bluesky.svg) @timobakx.bsky.social](https://bsky.app/profile/timobakx.bsky.social)
-· [![twitter](icon/twitter.svg) @TimoBakx](https://twitter.com/TimoBakx)
-· [![linkedin](icon/linkedin.svg) @timobakx](https://linkedin.com/in/timobakx)
+By [Timo Bakx](https://connect.symfony.com/profile/timobakx)
 
 ---
 
@@ -109,20 +69,14 @@ By [Timo Bakx](https://connect.symfony.com/profile/timobakx)
 
 <dl>
   <dt>Description</dt>
-  <dd>Domain Driven Design focuses on modelling the domain logic and helps us to map the business requirements to our software. We'll discuss the terminology and take a look at what Domain Driven Design is and see how you use it to make software that meets the needs of its users. Most people seem to concentrate on the tactical patterns in DDD, but the strategic side is where the most benefit can be found. I will concentrate on the on these strategic considerations, particularly the importance of communication at all levels of the project so that by the end of this session you will be better positioned to create excellent, maintainable applications.</dd>
+  <dd>An exploration of Domain Driven Design strategic patterns with a focus on effective communication and mapping business requirements to technical solutions.</dd>
 </dl>
 
-[Slides](https://speaking.akrabat.com/8DFKuN)  
-~~Video~~  
-[Blog post](https://akrabat.com/talks/strategic-ddd/)
+~~Slides~~
+~~Video~~
+~~Blog post~~
 
-By [Rob Allen](https://connect.symfony.com/profile/akrabat)  
-💻 on [![github](icon/github.svg) @akrabat](https://github.com/akrabat)  <sup>[💚](https://github.com/sponsors/akrabat)</sup>  
-✍ on [🌐 akrabat.com](https://akrabat.com/)  <sup>[![rss](icon/rss.svg)](https://akrabat.com/feed/)</sup>  
-💬 on [![mastodon](icon/mastodon.svg) @rob@akrabat.com](https://social.akrabat.com/@rob)
-· [![bluesky](icon/bluesky.svg) @akrabat.com](https://bsky.app/profile/akrabat.com)
-· [![twitter](icon/twitter.svg) @akrabat](https://twitter.com/akrabat)
-· [![linkedin](icon/linkedin.svg) @akrabat](https://linkedin.com/in/akrabat)
+By [Rob Allen](https://connect.symfony.com/profile/akrabat)
 
 ---
 
@@ -130,22 +84,14 @@ By [Rob Allen](https://connect.symfony.com/profile/akrabat)
 
 <dl>
   <dt>Description</dt>
-  <dd>In this talk, I'll tell you how I built the raffler for our AmsterdamPHP meetups using WebSockets. We'll cover several real-time protocols and their limits and advantages.
-
-Then, we'll move on to a whole lot of async PHP implementation using Ratchet for WebSockets. If you've ever wanted to learn how to build something for multiple users communicating in real time, this simple and fun use case is for you.</dd>
+  <dd>Building a real-time raffler application for AmsterdamPHP meetups using WebSockets. This talk covers async PHP implementation using the Ratchet framework to create interactive, real-time features.</dd>
 </dl>
 
-~~Slides~~  
-~~Video~~  
+~~Slides~~
+~~Video~~
 ~~Blog post~~
 
-By [Pauline Vos](https://connect.symfony.com/profile/paulinevos)  
-💻 on [![github](icon/github.svg) @paulinevos](https://github.com/paulinevos)  
-✍ on [🌐 dev.to/paulinevos](https://dev.to/paulinevos)  <sup>[![rss](icon/rss.svg)](https://dev.to/feed/paulinevos)</sup>  
-💬 on [![mastodon](icon/mastodon.svg) @vanamerongen@phpc.social](https://phpc.social/@vanamerongen)
-· [![bluesky](icon/bluesky.svg) @pauline-vos.nl](https://bsky.app/profile/pauline-vos.nl)
-· [![twitter](icon/twitter.svg) @vanamerongen](https://twitter.com/vanamerongen)
-· [![linkedin](icon/linkedin.svg) @paulinepvos](https://linkedin.com/in/paulinepvos/)
+By [Pauline Vos](https://connect.symfony.com/profile/paulinevos)
 
 ---
 
@@ -153,23 +99,14 @@ By [Pauline Vos](https://connect.symfony.com/profile/paulinevos)
 
 <dl>
   <dt>Description</dt>
-  <dd>WordPress powers a vast portion of the web, and Symfony provides a robust framework for building complex applications. What if you didn't have to choose between them? This talk dives deep into the practical strategies for integrating these two powerful PHP platforms.
-
-We'll explore various tried-and-tested methods, from embedding a Symfony application within WordPress to running WordPress inside a Symfony application. We'll also cover advanced techniques like WordPress code manipulation to create a truly unified application.
-
-Whether you're looking to enhance a legacy WordPress site with modern Symfony framework or leverage Symfony features like forms, Twig, Live Components UX-friendly admin panel for a Symfony project, this session will provide you with a clear roadmap, best practices, and real-world examples to help you build more powerful and flexible web applications.</dd>
+  <dd>Practical strategies for integrating WordPress and Symfony platforms. This talk covers both embedded and unified application approaches, helping you bridge these two ecosystems effectively.</dd>
 </dl>
 
-[Slides](https://speakerdeck.com/alexandresalome/integrating-wordpress-and-symfony)  
-~~Video~~  
-~~Blog post~~  
-[Examples for integrating WordPress with Symfony](https://github.com/alexandresalome/symfony-wordpress)
+~~Slides~~
+~~Video~~
+~~Blog post~~
 
-By [Alexandre Salomé](https://connect.symfony.com/profile/alexandresalome)  
-💻 on [![github](icon/github.svg) @alexandresalome](https://github.com/alexandresalome)  
-✍ on [🌐 alexandre.salome.fr/blog](https://alexandre.salome.fr/blog/)  
-💬 on [![twitter](icon/twitter.svg) @alexandresalome](https://twitter.com/alexandresalome)
-· [![linkedin](icon/linkedin.svg) @alexandresalome](https://linkedin.com/in/alexandresalome)
+By [Alexandre Salomé](https://connect.symfony.com/profile/alexandresalome)
 
 ---
 
@@ -177,19 +114,14 @@ By [Alexandre Salomé](https://connect.symfony.com/profile/alexandresalome)
 
 <dl>
   <dt>Description</dt>
-  <dd>Scaling PHP is about resilience and performance, not just traffic. This talk covers live demos of optimising the PHP runtime, tuning configs, and measuring FrankenPHP and PHP-FPM with tools like OpenMetrics, Grafana, and k6. Additionally, you’ll learn to avoid design flaws, architect for scalability, and gain the mindset to confidently scale PHP applications.</dd>
+  <dd>Live demonstrations optimizing PHP runtime performance using FrankenPHP and PHP-FPM. Includes monitoring and performance analysis with tools like Grafana and k6 for production resilience.</dd>
 </dl>
 
-~~Slides~~  
-~~Video~~  
-~~Blog post~~  
-[Code](https://github.com/dragoonis/symfonycon-2025-scaling)
+~~Slides~~
+~~Video~~
+~~Blog post~~
 
-By [Paul Dragoonis](https://connect.symfony.com/profile/dragoonis)  
-💻 on [![github](icon/github.svg) @dragoonis](https://github.com/dragoonis)  
-_✍ blog not found_  
-💬 on [![twitter](icon/twitter.svg) @dr4goonis](https://twitter.com/dr4goonis)
-· [![linkedin](icon/linkedin.svg) @pauldragoonis](https://linkedin.com/in/pauldragoonis)
+By [Paul Dragoonis](https://connect.symfony.com/profile/dr4goonis)
 
 ---
 
@@ -197,18 +129,14 @@ _✍ blog not found_
 
 <dl>
   <dt>Description</dt>
-  <dd>In microservice or event-driven architectures you might find yourself having to solve issues which are simple when working with monolithic applications. One of these challenges is distributed transactions, i.e., performing an action across multiple services can be safely reversed when something fails along the call chain. The Saga pattern is an established approach to make this happen. Let's have a look at what it is, how we can implement it in a modern Symfony application and when we might want to avoid it.</dd>
+  <dd>Exploring the Saga pattern for handling distributed transactions safely across microservices. Learn strategies for maintaining data consistency in distributed Symfony applications.</dd>
 </dl>
 
-[Slides](https://speakerdeck.com/dbrumann/distributed-transactions-with-symfony)  
-~~Video~~  
+~~Slides~~
+~~Video~~
 ~~Blog post~~
 
-By [Denis Brumann](https://connect.symfony.com/profile/dbrumann)  
-💻 on [![github](icon/github.svg) @dbrumann](https://github.com/dbrumann)  
-_✍ blog not found_  
-💬 on [![mastodon](icon/mastodon.svg) @dbrumann@mastodon.social](https://mastodon.social/@dbrumann)
-· [![linkedin](icon/linkedin.svg) @dbrumann](https://linkedin.com/in/dbrumann)
+By [Denis Brumann](https://connect.symfony.com/profile/dbrumann)
 
 ---
 
@@ -216,34 +144,14 @@ _✍ blog not found_
 
 <dl>
   <dt>Description</dt>
-  <dd>While most PHP applications rely on traditional row-oriented databases, many modern applications require processing massive amounts of data for analytics, logging, and metrics – areas where conventional databases struggle. This becomes even more apparent when you need real-time performance at scale.
-
-ClickHouse is a powerful column-oriented database that can save you significant time when aggregating data in real-time, all without leaving the comfort of your technology stack.
-
-In this talk we'll explore :
-- Why column-oriented databases are game-changers for analytical workloads
-- How to integrate ClickHouse with Symfony applications using recommended practices
-- Real-world architecture patterns that effectively combine traditional databases with ClickHouse
-- How to deploy ClickHouse with just a few lines of code
-- Key ClickHouse features for building real-time dashboards
-- Concrete aggregation examples with benchmarks comparing ClickHouse to other solutions
-
-We'll also cover advanced features like cold storage, replication, and practical optimization tricks learned from production experience.
-
-Whether you're working with e-commerce applications, logs, user events, IoT data, or business metrics, this talk will equip you with the knowledge to implement ClickHouse as a powerful addition to your PHP development toolkit.</dd>
+  <dd>Column-oriented database integration with Symfony for analytics and real-time data aggregation. This talk includes benchmarks demonstrating ClickHouse's performance advantages for analytical workloads.</dd>
 </dl>
 
-~~Slides~~  
-~~Video~~  
-~~Blog post~~  
-[Demo project · ClickHouse for Symfony Developers](https://github.com/romainneutron/clickhouse-symfony-symfonycon2025)
+~~Slides~~
+~~Video~~
+~~Blog post~~
 
-By [Romain Neutron](https://connect.symfony.com/profile/romain)  
-💻 on [![github](icon/github.svg) @romainneutron](https://github.com/romainneutron)  
-_✍ blog not found_  
-💬 on [![bluesky](icon/bluesky.svg) @neutron.io](https://bsky.app/profile/neutron.io)
-· [![twitter](icon/twitter.svg) @romainneutron](https://twitter.com/romainneutron)
-· [![linkedin](icon/linkedin.svg) @romainneutron](https://linkedin.com/in/romainneutron)
+By [Romain Neutron](https://connect.symfony.com/profile/romain)
 
 ---
 
@@ -251,26 +159,14 @@ _✍ blog not found_
 
 <dl>
   <dt>Description</dt>
-  <dd>Are React, Vue, or even Hotwired still essential for creating modern websites and web applications?
-New web projects, even those built using Symfony, tend to be systematically written as Single Page Apps. As a result, they contain a lot of JavaScript code, which often makes them unnecessarily slow and difficult to maintain. Their search engine optimization and indexing by robots powering AI chats can also be greatly degraded.
-
-Thanks to modern CSS, however, the situation has changed: View Transitions and Speculation Rules now make it possible to achieve a UX and a perception of fluidity similar to that offered by the best SPAs, but using a “traditional” approach, without the need for JavaScript or the complexity it introduces.
-In concrete terms, this means that it is once again possible to use our favorite framework and its companion Twig for what they excel at: generating server-side HTML, while maintaining excellent UI and UX quality.
-
-During this talk, I will present the architecture of a modern Symfony application that does not depend (or depends very little) on JavaScript and is not an SPA. Then I will introduce a new Symfony UX component that takes advantage of this architecture, the Mercure protocol, and FrankenPHP to offer a feature prized by front-end developers: automatic reloading of views (while preserving states) during development.</dd>
+  <dd>Modern CSS with View Transitions and Speculation Rules enables "traditional" server-side HTML approaches without SPA complexity. Discover how to build modern, performant interfaces using these new web platform features.</dd>
 </dl>
 
-~~Slides~~  
-~~Video~~  
+~~Slides~~
+~~Video~~
 ~~Blog post~~
 
-By [Kévin Dunglas](https://connect.symfony.com/profile/dunglas)  
-💻 on [![github](icon/github.svg) @dunglas](https://github.com/dunglas)  <sup>[💚](https://github.com/sponsors/dunglas)</sup>  
-✍ on [🌐 dunglas.dev](https://dunglas.dev/)  <sup>[![rss](icon/rss.svg)](https://dunglas.dev/feed/)</sup>  
-💬 on [![mastodon](icon/mastodon.svg) @dunglas@mastodon.social](https://mastodon.social/@dunglas)
-· [![bluesky](icon/bluesky.svg) @dunglas.dev](https://bsky.app/profile/dunglas.dev)
-· [![twitter](icon/twitter.svg) @dunglas](https://twitter.com/dunglas)
-· [![linkedin](icon/linkedin.svg) @dunglas](https://www.linkedin.com/in/dunglas)
+By [Kévin Dunglas](https://connect.symfony.com/profile/dunglas)
 
 ---
 
@@ -278,38 +174,14 @@ By [Kévin Dunglas](https://connect.symfony.com/profile/dunglas)
 
 <dl>
   <dt>Description</dt>
-  <dd>In this fast-paced talk, we'll walk through a complete life-cycle of working with a set of data, starting with a CSV file and ending with an AI-powered semantic search that's fast and beautiful.
-
-To do this, we'll use Meilisearch, the same open source search engine that po
-wers Symfony documentation. Meilisearch has recently added the ability to store vectors, making it easy to start with integrating AI into your application.
-
-Symfony has some excellent tools for working with the data. We'll walk through them, starting with "symfony new --webapp my app" and then composer require a bunch of time-saving tools for Radid Application Development
-
-* create an entity (make:entity -a)
-* configure a console command (survos:make:command app:load)
-* implement the load command, using CsvReader and ObjectMapper
-* configure the api resource by tweaking some entity attributes so we'll have a readonly API endpoint
-* make:admin:entity and make:admin:dashboard to create a way to view the imported data using EasyAdmin
-* add some more entity attributes and create and configure a meili index
-* import the data from doctrine to meilisearch
-* configure a twig viewer (that renders in javascript!)
-
-At this point we have a fast, powerful full-text search and filtering system that will be the envy of your peers. But there's more!
-
-We'll setup an OpenAI account so we can create semantic vectors and store them, and add an embedder to meilisearch settings, and suddenly we have ai-powered semantic searcher.
-
-Amazing, all of this happens with very few LOC (Lines of Code). Knowing what tools are available and how to configure them makes this possible, and the purpose of this talk is to demonstrate.</dd>
+  <dd>Complete lifecycle from CSV data to AI-powered semantic search using Meilisearch. This talk covers vector storage and OpenAI integration for building intelligent search experiences.</dd>
 </dl>
 
-~~Slides~~  
-~~Video~~  
+~~Slides~~
+~~Video~~
 ~~Blog post~~
 
-By [Tac (Michael) Tacelosky](https://connect.symfony.com/profile/tacman1123)  
-💻 on [![github](icon/github.svg) @tacman](https://github.com/tacman)  
-_✍ blog not found_  
-💬 on [![bluesky](icon/bluesky.svg) @tacman1123.bsky.social](https://bsky.app/profile/tacman1123.bsky.social)
-· [![linkedin](icon/linkedin.svg) @tacman](https://linkedin.com/in/tacman)
+By [Tac Tacelosky](https://connect.symfony.com/profile/tac)
 
 ---
 
@@ -317,21 +189,14 @@ _✍ blog not found_
 
 <dl>
   <dt>Description</dt>
-  <dd>Talk to the duck, ship real features. See how to turn clear prompts into branch creation, database queries, a new revenue card and API endpoint, gated pushes and merges, and even backup and restore. Reproducible, auditable, Symfony-ready. No vibes. Just controlled automation that gets work done.
-
-AI should feel like a power tool, not a vibe. In this live demo we use an AI assistant to perform real, auditable development tasks while the developer stays in control. We will query project details, inspect PostgreSQL for total revenue, fetch environment URLs, take a backup, create a feature branch called revenue-card, generate a React dashboard card plus a matching API endpoint, commit and push to the remote, then merge to main. Finally, we will restore from backup to prove reversibility. Every step is driven by structured prompts that engage Upun's MCP server, versioned in Git, validated in production-grade preview environments on Upsun, and observable end to end. You will leave with a clear mental model and practical patterns for using conversational control to accelerate Symfony work without sacrificing standards, security, or sanity.</dd>
+  <dd>Live demonstration using AI with Model Context Protocols for controlled, auditable development tasks on Upsun. Learn how to leverage AI assistants safely in your deployment workflow.</dd>
 </dl>
 
-~~Slides~~  
-~~Video~~  
+~~Slides~~
+~~Video~~
 ~~Blog post~~
 
-By [Greg Qualls](https://connect.symfony.com/profile/gregqualls)  
-💻 on [![github](icon/github.svg) @gregqualls](https://github.com/gregqualls)  
-_✍ blog not found_  
-💬 on [![bluesky](icon/bluesky.svg) @gregqualls.com](https://bsky.app/profile/gregqualls.com)
-· [![twitter](icon/twitter.svg) @gregqualls](https://twitter.com/gregqualls)
-· [![linkedin](icon/linkedin.svg) @gregqualls](https://linkedin.com/in/gregqualls)
+By [Greg Qualls](https://connect.symfony.com/profile/gqualls)
 
 ---
 
@@ -339,25 +204,14 @@ _✍ blog not found_
 
 <dl>
   <dt>Description</dt>
-  <dd>Wouldn't it be great if we can use our LLM to answer very specific questions? Wouldn't it be great to move away from a general purpose machine to something tailor made for me or my users? If we could stop asking questions like "What is the area of a sphere?" and more like:
-
-- "What is the status on my last order?"
-- "What are the total fees given to a supplier X?"
-- "How many images have I uploaded this year?"
-
-This talk will go over the MCP protocol, why we care and how to use it to create an AI service that is helpful.</dd>
+  <dd>Model Context Protocol implementation for application-specific LLM queries. This talk shows how to move beyond general-purpose AI capabilities to create context-aware, application-specific AI features.</dd>
 </dl>
 
-~~Slides~~  
-~~Video~~  
+~~Slides~~
+~~Video~~
 ~~Blog post~~
 
-By [Tobias Nyholm](https://connect.symfony.com/profile/tobias)  
-💻 on [![github](icon/github.svg) @Nyholm](https://github.com/Nyholm)  <sup>[💚](https://github.com/sponsors/Nyholm)</sup>  
-_✍ blog not found_  
-💬 on [![bluesky](icon/bluesky.svg) @nyholm.bsky.social](https://bsky.app/profile/nyholm.bsky.social)
-· [![twitter](icon/twitter.svg) @TobiasNyholm](https://twitter.com/TobiasNyholm)
-· [![linkedin](icon/linkedin.svg) @tobiasnyholm](https://linkedin.com/in/tobiasnyholm)
+By [Tobias Nyholm](https://connect.symfony.com/profile/tobias)
 
 ---
 
@@ -365,30 +219,14 @@ _✍ blog not found_
 
 <dl>
   <dt>Description</dt>
-  <dd>Console is one of the most widely used Symfony components and ranks among the top 5 most downloaded PHP packages worldwide.
-
-Used by essential tools such as Composer, PHPStan, and Psalm, as well as by most PHP frameworks, CMS, e-commerce platforms, and ultimately our end applications, the console is ubiquitous.
-
-The more a package is used, the more difficult it is to evolve. The slightest bug fix on the Console can disrupt millions of users. Nevertheless, the component has been constantly improved thanks to the countless contributions it has received since its introduction in 2010, while remaining true to its promise of backward compatibility.
-
-But it's time to give the Console a major facelift, not only to get rid of some limitations and other design issues, but also to open it up to new possibilities.
-That's why a few key contributors have been working hard to redesign it.
-
-It's available since Symfony 7.3, and will get even better in a future version.
-Join me to rediscover the Console!</dd>
+  <dd>The Console component ranks among the top 5 most downloaded PHP packages. Explore recent redesigns and functionality improvements introduced since Symfony 7.3.</dd>
 </dl>
 
-~~Slides~~  
-~~Video~~  
+~~Slides~~
+~~Video~~
 ~~Blog post~~
 
-By [Robin Chalas](https://connect.symfony.com/profile/chalas_r)  
-💻 on [![github](icon/github.svg) @chalasr](https://github.com/chalasr)  <sup>[💚](https://github.com/sponsors/chalasr)</sup>  
-✍ on [🌐 baksla.sh/blog](https://baksla.sh/blog)  
-💬 on [![bluesky](icon/bluesky.svg) @chalasr.bsky.social](https://bsky.app/profile/chalasr.bsky.social)
-· [![twitter](icon/twitter.svg) @chalas_r](https://twitter.com/chalas_r)
-· [![mastodon](icon/mastodon.svg) @chalasr@phpc.social](https://phpc.social/@chalasr)
-· [![linkedin](icon/linkedin.svg) @robinchalas](https://linkedin.com/in/robinchalas)
+By [Robin Chalas](https://connect.symfony.com/profile/chalas_r)
 
 ---
 
@@ -396,17 +234,14 @@ By [Robin Chalas](https://connect.symfony.com/profile/chalas_r)
 
 <dl>
   <dt>Description</dt>
-  <dd>...</dd>
+  <dd>Following features from pull request to launch announcement. This talk demonstrates how communication shapes feature adoption and visibility in the developer community.</dd>
 </dl>
 
-~~Slides~~  
-~~Video~~  
+~~Slides~~
+~~Video~~
 ~~Blog post~~
 
-By [Céleste van der Watt](https://connect.symfony.com/profile/cvanderwatt)  
-_✍ blog not found_  
-💬 on [![twitter](icon/twitter.svg) @celereeee](https://twitter.com/celereeee)
-· [![linkedin](icon/linkedin.svg) @cvanderwatt](https://linkedin.com/in/cvanderwatt)
+By [Celeste VAN DER WATT](https://connect.symfony.com/profile/celestevdw)
 
 ---
 
@@ -414,19 +249,397 @@ _✍ blog not found_
 
 <dl>
   <dt>Description</dt>
-  <dd>Creating multi-tenant applications is a common task but there are many pitfalls such as using the messenger, scheduler, cache, and other Symfony components which are designed for a single tenant application by default. In this talk, we go through how you can extend these components using configs, PSRs, middleware, etc to make these components work in a multi-tenant fashion.</dd>
+  <dd>Extending Messenger, Scheduler, and Cache for multi-tenant support through configs, PSRs, and middleware. Learn practical approaches for building multi-tenant Symfony applications.</dd>
 </dl>
 
-~~Slides~~  
-~~Video~~  
+~~Slides~~
+~~Video~~
 ~~Blog post~~
 
-By [Iain Cambridge](https://connect.symfony.com/profile/icambridge)  
-💻 on [![github](icon/github.svg) @that-guy-iain](https://github.com/that-guy-iain)  
-✍ on [🌐 iain.rocks/blog](https://iain.rocks/blog/)  <sup>[![rss](icon/rss.svg)](https://iain.rocks/feed.xml)</sup>  
-💬 on [![bluesky](icon/bluesky.svg) @iain.bsky.social](https://bsky.app/profile/iain.bsky.social)
-· [![linkedin](icon/linkedin.svg) @iain-cambridge](https://linkedin.com/in/iain-cambridge)
+By [Iain Cambridge](https://connect.symfony.com/profile/iaincambridge)
 
 ---
 
-(this is work in progress)
+## The Double-Edged Sword of Code Quality Tools
+
+<dl>
+  <dt>Description</dt>
+  <dd>Real-world challenges balancing automated quality tools like PHPStan and PHP-CS-Fixer. This talk explores how to avoid counterproductive overreliance on static analysis tools.</dd>
+</dl>
+
+~~Slides~~
+~~Video~~
+~~Blog post~~
+
+By [Konrad Oboza](https://connect.symfony.com/profile/norzechowicz)
+
+---
+
+## Code and Conscience: Ethical Docs for AI
+
+<dl>
+  <dt>Description</dt>
+  <dd>Crafting AI documentation that transparently addresses capabilities, limitations, bias, and privacy. Learn how to create responsible documentation for AI-powered features that engages users ethically.</dd>
+</dl>
+
+~~Slides~~
+~~Video~~
+~~Blog post~~
+
+By [Kemi Elizabeth Ojogbede](https://connect.symfony.com/profile/kemiojogbede)
+
+---
+
+## Vibe-Free Zone: Serious AI Assisted Development for Symfony
+
+<dl>
+  <dt>Description</dt>
+  <dd>Proven techniques for configuring AI code assistants with prompt engineering strategies specifically for Symfony patterns and best practices.</dd>
+</dl>
+
+~~Slides~~
+~~Video~~
+~~Blog post~~
+
+By [Guillaume Moigneu](https://connect.symfony.com/profile/gmoigneu)
+
+---
+
+## Coping With a Bad Sequel: SELECT * FROM Regret
+
+<dl>
+  <dt>Description</dt>
+  <dd>Examining SQL evolution handling JSON, arrays, and composite types alongside NoSQL database trends. Learn from past database decisions and make better choices for future projects.</dd>
+</dl>
+
+~~Slides~~
+~~Video~~
+~~Blog post~~
+
+By [Andreas Braun](https://connect.symfony.com/profile/alcaeus)
+
+---
+
+## Installing Symfony with Symfony using the Browser
+
+<dl>
+  <dt>Description</dt>
+  <dd>A self-contained PHP file enabling browser-based Symfony application installation for non-technical users. Simplify Symfony deployment for clients and team members.</dd>
+</dl>
+
+~~Slides~~
+~~Video~~
+~~Blog post~~
+
+By [Soner Sayakci](https://connect.symfony.com/profile/shyim)
+
+---
+
+## Core team Q/A
+
+~~Slides~~
+~~Video~~
+~~Blog post~~
+
+---
+
+## Symfony AI in Action
+
+<dl>
+  <dt>Description</dt>
+  <dd>Symfony AI enables bringing AI-based or agentic features into PHP applications beyond simple chatbots. Discover practical use cases and implementation patterns for production AI features.</dd>
+</dl>
+
+~~Slides~~
+~~Video~~
+~~Blog post~~
+
+By [Christopher Hertel](https://connect.symfony.com/profile/chrishertel)
+
+---
+
+## Surviving a Symfony Upgrade
+
+<dl>
+  <dt>Description</dt>
+  <dd>Coding techniques and design patterns that facilitate future Symfony upgrades regardless of how the framework evolves. Build applications that age gracefully.</dd>
+</dl>
+
+~~Slides~~
+~~Video~~
+~~Blog post~~
+
+By [Anna Filina](https://connect.symfony.com/profile/afilina)
+
+---
+
+## A productive Frontend Stack with Symfony UX
+
+<dl>
+  <dt>Description</dt>
+  <dd>Structuring Twig for reusable components with Form Theming, Hotwire Turbo, Stimulus, and Tailwind. Build a modern, productive frontend stack without JavaScript framework complexity.</dd>
+</dl>
+
+~~Slides~~
+~~Video~~
+~~Blog post~~
+
+By [Alexander Schranz](https://connect.symfony.com/profile/alexander-schranz)
+
+---
+
+## Blast Off Your CI with Dagger
+
+<dl>
+  <dt>Description</dt>
+  <dd>Using Dagger CI pipelines written in pure PHP, eliminating YAML configuration. Test multiple Symfony and PHP versions efficiently with programmatic pipeline definitions.</dd>
+</dl>
+
+~~Slides~~
+~~Video~~
+~~Blog post~~
+
+By [Adrien Roches](https://connect.symfony.com/profile/aroches)
+
+---
+
+## How to make good decisions with a happy team
+
+<dl>
+  <dt>Description</dt>
+  <dd>Introducing sociocracy for team discussion and decision-making while ensuring member satisfaction. Create a collaborative environment where everyone's voice is heard.</dd>
+</dl>
+
+~~Slides~~
+~~Video~~
+~~Blog post~~
+
+By [Stefan Koopmanschap](https://connect.symfony.com/profile/skoop)
+
+---
+
+## CQRS in Symfony: yes, but calm down
+
+<dl>
+  <dt>Description</dt>
+  <dd>Pragmatic CQRS implementation avoiding over-engineering with live-coding demonstrations. Learn when and how to apply Command Query Responsibility Segregation effectively.</dd>
+</dl>
+
+~~Slides~~
+~~Video~~
+~~Blog post~~
+
+By [Oskar Barcz](https://connect.symfony.com/profile/obarcz)
+
+---
+
+## The CI/CD Pipeline in 2025: GitOps, AI, and Zero-Trust in Action
+
+<dl>
+  <dt>Description</dt>
+  <dd>Next-generation pipeline demonstrating GitOps, Zero-Trust security, AI predictions, and multi-cloud Kubernetes deployments. See the future of CI/CD in action.</dd>
+</dl>
+
+~~Slides~~
+~~Video~~
+~~Blog post~~
+
+By [Herve Leclerc](https://connect.symfony.com/profile/herveleclerc)
+
+---
+
+## API Platform 4: Forget What You Used to Know
+
+<dl>
+  <dt>Description</dt>
+  <dd>Major changes in API Platform 4 addressing new philosophy, mechanisms, and common upgrading mistakes. Prepare for significant architectural improvements in the next major version.</dd>
+</dl>
+
+~~Slides~~
+~~Video~~
+~~Blog post~~
+
+By [Mathias Arlaud](https://connect.symfony.com/profile/mtarld)
+
+---
+
+## Symfony and Rust: Accelerating Hot Paths with FFI
+
+<dl>
+  <dt>Description</dt>
+  <dd>Using PHP's FFI to call Rust code for performance improvements. This talk provides practical implementation guidance for optimizing performance-critical code paths.</dd>
+</dl>
+
+~~Slides~~
+~~Video~~
+~~Blog post~~
+
+By [Mitchel Vroege](https://connect.symfony.com/profile/mvroege)
+
+---
+
+## Inside Gally: Building an AI Product Discovery Tool with Symfony
+
+<dl>
+  <dt>Description</dt>
+  <dd>Technical design of Gally discovery product leveraging Symfony for API abstraction and vector search capabilities. A real-world case study of building AI-powered product discovery.</dd>
+</dl>
+
+~~Slides~~
+~~Video~~
+~~Blog post~~
+
+By [Romain Ruaud](https://connect.symfony.com/profile/rruaud)
+
+---
+
+## Testing with(out) dependencies
+
+<dl>
+  <dt>Description</dt>
+  <dd>PHPUnit test doubles strategy determining when to use stubs, mocks, or actual dependencies. Learn best practices for writing maintainable, effective tests.</dd>
+</dl>
+
+~~Slides~~
+~~Video~~
+~~Blog post~~
+
+By [Sebastian Bergmann](https://connect.symfony.com/profile/sebastian)
+
+---
+
+## Package Manager Security in 2025: What's Next?
+
+<dl>
+  <dt>Description</dt>
+  <dd>Supply chain security threats examining SLSA, trusted publishing, and build provenance for the PHP ecosystem. Understand emerging security standards for package distribution.</dd>
+</dl>
+
+~~Slides~~
+~~Video~~
+~~Blog post~~
+
+By [Nils Adermann](https://connect.symfony.com/profile/naderman)
+
+---
+
+## Cloud-Agnostic AI Agents with Clean Architecture
+
+<dl>
+  <dt>Description</dt>
+  <dd>Clean Architecture principles for enterprise AI agents with RAG (Retrieval-Augmented Generation) ensuring portability and data sovereignty.</dd>
+</dl>
+
+~~Slides~~
+~~Video~~
+~~Blog post~~
+
+By [Alejandro Reyes Amaro](https://connect.symfony.com/profile/areyesamaro)
+
+---
+
+## Unleash the Power of Symfony Messenger
+
+<dl>
+  <dt>Description</dt>
+  <dd>Advanced Messenger usage including multiple buses, message tracing, chaining, and batching. Real-world examples from Vacatia demonstrating enterprise-scale messaging patterns.</dd>
+</dl>
+
+~~Slides~~
+~~Video~~
+~~Blog post~~
+
+By [Kris Wallsmith](https://connect.symfony.com/profile/kriswallsmith)
+
+---
+
+## Inside the first Git commit: powerful ideas behind a minimal start
+
+<dl>
+  <dt>Description</dt>
+  <dd>Dissecting Linus Torvalds' initial Git commit revealing design principles in immutable content addressing. Learn foundational software architecture lessons from Git's elegant design.</dd>
+</dl>
+
+~~Slides~~
+~~Video~~
+~~Blog post~~
+
+By [Valentin Rusev](https://connect.symfony.com/profile/vrusev)
+
+---
+
+## Geopolitics of Code: How You Can Build the Future of Data and AI
+
+<dl>
+  <dt>Description</dt>
+  <dd>European digital sovereignty challenges and open-source strategies for resilient AI implementation. Understanding the political and technical landscape of modern software development.</dd>
+</dl>
+
+~~Slides~~
+~~Video~~
+~~Blog post~~
+
+By [Brice Blondiau](https://connect.symfony.com/profile/briceblondiau)
+
+---
+
+## Emerging AI Design Patterns in Symfony
+
+<dl>
+  <dt>Description</dt>
+  <dd>Core patterns making large-language models dependable, testable, and production-ready with proper guardrails. Essential patterns for building reliable AI features in Symfony.</dd>
+</dl>
+
+~~Slides~~
+~~Video~~
+~~Blog post~~
+
+By [Titouan Galopin](https://connect.symfony.com/profile/tgalopin)
+
+---
+
+## How native lazy objects will change Doctrine and Symfony forever
+
+<dl>
+  <dt>Description</dt>
+  <dd>PHP 8.4 native lazy objects eliminating proxy code generation for Doctrine and Symfony. A fundamental improvement to PHP's object model with wide-ranging implications.</dd>
+</dl>
+
+~~Slides~~
+~~Video~~
+~~Blog post~~
+
+By [Benjamin Eberlei](https://connect.symfony.com/profile/beberlei)
+
+---
+
+## Semantic Search: From Keywords to Intent with Symfony AI
+
+<dl>
+  <dt>Description</dt>
+  <dd>RAG approaches with open-source LLMs implementing semantic search beyond keyword matching. Build intelligent search experiences that understand user intent.</dd>
+</dl>
+
+~~Slides~~
+~~Video~~
+~~Blog post~~
+
+By [Stiven Llupa](https://connect.symfony.com/profile/sllupa)
+
+---
+
+## A Year of Symfony!
+
+~~Slides~~
+~~Video~~
+~~Blog post~~
+
+By [Nicolas Grekas](https://connect.symfony.com/profile/nicolas-grekas)
+
+---
+
+## Closing session 👋
+
+~~Slides~~
+~~Video~~
+~~Blog post~~
