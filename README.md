@@ -10,13 +10,14 @@
 
 ---
 
-## Keynote
+## Keynote · 20 years of Symfony, what's next?
 
 ~~Slides~~
 ~~Video~~
-~~Blog post~~
+[Symfony 8 page](http://symfony.com/8)
+[Symfony curated new features](https://symfony.com/blog/symfony-7-4-curated-new-features)
 
-By [Fabien Potencier](https://connect.symfony.com/profile/fabpot)  
+By [Fabien Potencier](https://connect.symfony.com/profile/fabpot)
 💻 on [![github](icon/github.svg) @fabpot](https://github.com/fabpot)  <sup>[💚](https://github.com/sponsors/fabpot)</sup>  
 ✍ on [🌐 fabien.potencier.org](https://fabien.potencier.org)  
 💬 on [![bluesky](icon/bluesky.svg) @fabien.potencier.org](https://bsky.app/profile/fabien.potencier.org)
@@ -33,11 +34,11 @@ By [Fabien Potencier](https://connect.symfony.com/profile/fabpot)
   <dd>The Symfony ecosystem is constantly evolving to ease developer experience and optimize application efficiency. This talk showcases new components like JSON Streamer and demonstrates FrankenPHP's capabilities in pushing performance boundaries.</dd>
 </dl>
 
-~~Slides~~
+[Slides](https://speakerdeck.com/soyuka/2025-performance-milestone-for-the-symfony-ecosystem)
 ~~Video~~
-~~Blog post~~
+[Blog post](https://soyuka.me/2025-performance-milestone-for-the-symfony-ecosystem/)
 
-By [Antoine Bluchet](https://connect.symfony.com/profile/soyuka)  
+By [Antoine Bluchet](https://connect.symfony.com/profile/soyuka)
 💻 on [![github](icon/github.svg) @soyuka](https://github.com/soyuka)  <sup>[💚](https://github.com/sponsors/soyuka)</sup>  
 ✍ on [🌐 soyuka.me](https://soyuka.me/)  <sup>[![rss](icon/rss.svg)](https://soyuka.me/index.xml)</sup>  
 💬 on [![bluesky](icon/bluesky.svg) @soyuka.me](https://bsky.app/profile/soyuka.me)
