@@ -102,3 +102,24 @@ By [Timo Bakx](https://connect.symfony.com/profile/timobakx)
 · [![bluesky](icon/bluesky.svg) @timobakx.bsky.social](https://bsky.app/profile/timobakx.bsky.social)
 · [![twitter](icon/twitter.svg) @TimoBakx](https://twitter.com/TimoBakx)
 · [![linkedin](icon/linkedin.svg) @pseudo](https://www.linkedin.com/in/pseudo)
+
+---
+
+## Strategic DDD
+
+<dl>
+  <dt>Description</dt>
+  <dd>Domain Driven Design focuses on modelling the domain logic and helps us to map the business requirements to our software. We'll discuss the terminology and take a look at what Domain Driven Design is and see how you use it to make software that meets the needs of its users. Most people seem to concentrate on the tactical patterns in DDD, but the strategic side is where the most benefit can be found. I will concentrate on the on these strategic considerations, particularly the importance of communication at all levels of the project so that by the end of this session you will be better positioned to create excellent, maintainable applications.</dd>
+</dl>
+
+[Slides](https://speaking.akrabat.com/8DFKuN)  
+~~Video~~  
+[Blog post](https://akrabat.com/talks/strategic-ddd/)
+
+By [Rob Allen](https://connect.symfony.com/profile/akrabat)  
+💻 on [![github](icon/github.svg) @akrabat](https://github.com/akrabat)  <sup>[💚](https://github.com/sponsors/akrabat)</sup>  
+✍ on [🌐 akrabat.com](https://akrabat.com/)  <sup>[![rss](icon/rss.svg)](https://akrabat.com/feed/)</sup>  
+💬 on [![mastodon](icon/mastodon.svg) @rob@akrabat.com](https://social.akrabat.com/@rob)
+· [![bluesky](icon/bluesky.svg) @akrabat.com](https://bsky.app/profile/akrabat.com)
+· [![twitter](icon/twitter.svg) @akrabat](https://twitter.com/akrabat)
+· [![linkedin](icon/linkedin.svg) @akrabat](https://www.linkedin.com/in/akrabat/)
