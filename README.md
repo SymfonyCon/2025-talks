@@ -12,7 +12,7 @@
 
 ## Keynote · 20 years of Symfony, what's next?
 
-~~Slides~~
+[Slides](https://speakerdeck.com/fabpot/20-years-of-symfony-whats-next)
 ~~Video~~
 [Symfony 8 page](http://symfony.com/8)
 [Symfony curated new features](https://symfony.com/blog/symfony-7-4-curated-new-features)
@@ -95,9 +95,9 @@ By [Timo Bakx](https://connect.symfony.com/profile/timobakx)
   <dd>An exploration of Domain Driven Design strategic patterns with a focus on effective communication and mapping business requirements to technical solutions.</dd>
 </dl>
 
-~~Slides~~
+[Slides](https://speaking.akrabat.com/8DFKuN)
 ~~Video~~
-~~Blog post~~
+[Blog post](https://akrabat.com/talks/strategic-ddd/)
 
 By [Rob Allen](https://connect.symfony.com/profile/akrabat)  
 💻 on [![github](icon/github.svg) @akrabat](https://github.com/akrabat)  <sup>[💚](https://github.com/sponsors/akrabat)</sup>  
@@ -134,7 +134,7 @@ By [Pauline Vos](https://connect.symfony.com/profile/paulinevos)
   <dd>Practical strategies for integrating WordPress and Symfony platforms. This talk covers both embedded and unified application approaches, helping you bridge these two ecosystems effectively.</dd>
 </dl>
 
-~~Slides~~
+[Slides](https://speakerdeck.com/alexandresalome/integrating-wordpress-and-symfony)
 ~~Video~~
 ~~Blog post~~
 
@@ -172,7 +172,7 @@ _✍ blog not found_
   <dd>Exploring the Saga pattern for handling distributed transactions safely across microservices. Learn strategies for maintaining data consistency in distributed Symfony applications.</dd>
 </dl>
 
-~~Slides~~
+[Slides](https://speakerdeck.com/dbrumann/distributed-transactions-with-symfony)
 ~~Video~~
 ~~Blog post~~
 
