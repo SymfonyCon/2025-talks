@@ -149,4 +149,28 @@ By [Pauline Vos](https://connect.symfony.com/profile/paulinevos)
 
 ---
 
+## Integrating WordPress and Symfony
+
+<dl>
+  <dt>Description</dt>
+  <dd>WordPress powers a vast portion of the web, and Symfony provides a robust framework for building complex applications. What if you didn't have to choose between them? This talk dives deep into the practical strategies for integrating these two powerful PHP platforms.
+
+We'll explore various tried-and-tested methods, from embedding a Symfony application within WordPress to running WordPress inside a Symfony application. We'll also cover advanced techniques like WordPress code manipulation to create a truly unified application.
+
+Whether you're looking to enhance a legacy WordPress site with modern Symfony framework or leverage Symfony features like forms, Twig, Live Components UX-friendly admin panel for a Symfony project, this session will provide you with a clear roadmap, best practices, and real-world examples to help you build more powerful and flexible web applications.</dd>
+</dl>
+
+[Slides](https://speakerdeck.com/alexandresalome/integrating-wordpress-and-symfony)  
+~~Video~~  
+~~Blog post~~  
+[Examples for integrating WordPress with Symfony](https://github.com/alexandresalome/symfony-wordpress)
+
+By [Alexandre Salomé](https://connect.symfony.com/profile/alexandresalome)  
+💻 on [![github](icon/github.svg) @alexandresalome](https://github.com/alexandresalome)  
+✍ on [🌐 alexandre.salome.fr/blog](https://alexandre.salome.fr/blog/)  
+💬 on [![twitter](icon/twitter.svg) @alexandresalome](https://twitter.com/alexandresalome)
+· [![linkedin](icon/linkedin.svg) @alexandresalome](https://www.linkedin.com/in/alexandresalome)
+
+---
+
 (this is work in progress)
