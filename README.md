@@ -126,4 +126,27 @@ By [Rob Allen](https://connect.symfony.com/profile/akrabat)
 
 ---
 
+## Let's Build A Raffler With WebSockets!
+
+<dl>
+  <dt>Description</dt>
+  <dd>In this talk, I'll tell you how I built the raffler for our AmsterdamPHP meetups using WebSockets. We'll cover several real-time protocols and their limits and advantages.
+
+Then, we'll move on to a whole lot of async PHP implementation using Ratchet for WebSockets. If you've ever wanted to learn how to build something for multiple users communicating in real time, this simple and fun use case is for you.</dd>
+</dl>
+
+~~Slides~~  
+~~Video~~  
+~~Blog post~~
+
+By [Pauline Vos](https://connect.symfony.com/profile/paulinevos)  
+💻 on [![github](icon/github.svg) @paulinevos](https://github.com/paulinevos)  
+✍ on [🌐 dev.to/paulinevos](https://dev.to/paulinevos)  <sup>[![rss](icon/rss.svg)](https://dev.to/feed/paulinevos)</sup>  
+💬 on [![mastodon](icon/mastodon.svg) @vanamerongen@phpc.social](https://phpc.social/@vanamerongen)
+· [![bluesky](icon/bluesky.svg) @pauline-vos.nl](https://bsky.app/profile/pauline-vos.nl)
+· [![twitter](icon/twitter.svg) @vanamerongen](https://twitter.com/vanamerongen)
+· [![linkedin](icon/linkedin.svg) @paulinepvos](https://www.linkedin.com/in/paulinepvos/)
+
+---
+
 (this is work in progress)
