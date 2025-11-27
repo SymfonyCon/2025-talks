@@ -1,7 +1,7 @@
 # [SymfonyCon - Amsterdam 2025](https://live.symfony.com/2025-amsterdam-con/schedule) talks
 
 > [!IMPORTANT]  
-> It's unfortunate that [videos aren't hosted on YouTube anymore](https://www.youtube.com/@SymfonyTv/videos), and most are [behind a paywall](https://live.symfony.com/replay), even years later 😔. <ins>If you’re a speaker, please consider sharing your insights in a blog post</ins>. It would really help beginners and uplift the entire community! 🤗
+> <ins>If you’re a speaker, please consider sharing your insights in a blog post</ins>, it would really help beginners and uplift the entire community! 🤗
 
 > [!NOTE]  
 > - All talks are in **English**.
