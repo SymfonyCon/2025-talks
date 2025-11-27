@@ -38,7 +38,7 @@ We'll take a modern application built with API Platform and supercharge it, show
 
 [Slides](https://speakerdeck.com/soyuka/2025-performance-milestone-for-the-symfony-ecosystem)  
 ~~Video~~  
-~~Blog post~~
+[Blog post](https://soyuka.me/2025-performance-milestone-for-the-symfony-ecosystem/)
 
 By [Antoine Bluchet](https://connect.symfony.com/profile/soyuka)  
 💻 on [![github](icon/github.svg) @soyuka](https://github.com/soyuka)  <sup>[💚](https://github.com/sponsors/pseudo)</sup>  
