@@ -247,4 +247,31 @@ _✍ blog not found_
 
 ---
 
+## Kill the SPA!
+
+<dl>
+  <dt>Description</dt>
+  <dd>Are React, Vue, or even Hotwired still essential for creating modern websites and web applications?
+New web projects, even those built using Symfony, tend to be systematically written as Single Page Apps. As a result, they contain a lot of JavaScript code, which often makes them unnecessarily slow and difficult to maintain. Their search engine optimization and indexing by robots powering AI chats can also be greatly degraded.
+
+Thanks to modern CSS, however, the situation has changed: View Transitions and Speculation Rules now make it possible to achieve a UX and a perception of fluidity similar to that offered by the best SPAs, but using a “traditional” approach, without the need for JavaScript or the complexity it introduces.
+In concrete terms, this means that it is once again possible to use our favorite framework and its companion Twig for what they excel at: generating server-side HTML, while maintaining excellent UI and UX quality.
+
+During this talk, I will present the architecture of a modern Symfony application that does not depend (or depends very little) on JavaScript and is not an SPA. Then I will introduce a new Symfony UX component that takes advantage of this architecture, the Mercure protocol, and FrankenPHP to offer a feature prized by front-end developers: automatic reloading of views (while preserving states) during development.</dd>
+</dl>
+
+~~Slides~~  
+~~Video~~  
+~~Blog post~~
+
+By [Kévin Dunglas](https://connect.symfony.com/profile/dunglas)  
+💻 on [![github](icon/github.svg) @dunglas](https://github.com/dunglas)  <sup>[💚](https://github.com/sponsors/dunglas)</sup>  
+✍ on [🌐 dunglas.dev](https://dunglas.dev/)  <sup>[![rss](icon/rss.svg)](https://dunglas.dev/feed/)</sup>  
+💬 on [![mastodon](icon/mastodon.svg) @dunglas@mastodon.social](https://mastodon.social/@dunglas)
+· [![bluesky](icon/bluesky.svg) @dunglas.dev](https://bsky.app/profile/dunglas.dev)
+· [![twitter](icon/twitter.svg) @dunglas](https://twitter.com/dunglas)
+· [![linkedin](icon/linkedin.svg) @dunglas](https://www.linkedin.com/in/dunglas)
+
+---
+
 (this is work in progress)
