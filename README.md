@@ -554,5 +554,24 @@ By [Christopher Hertel](https://connect.symfony.com/profile/chertel)
 
 ---
 
+## Surviving a Symfony Upgrade
+
+<dl>
+  <dt>Description</dt>
+  <dd>Symfony is evolving and you may ask yourself whether your application can keep up. This presentation aims to show coding techniques and design patterns that will make future Symfony upgrades much easier, even if we don't know what the future holds!</dd>
+</dl>
+
+~~Slides~~  
+~~Video~~  
+~~Blog post~~
+
+By [Anna Filina](https://connect.symfony.com/profile/afilina)  
+💻 on [![github](icon/github.svg) @afilina](https://github.com/afilina)  <sup>[💚](https://github.com/sponsors/afilina)</sup>  
+✍ on [🌐 afilina.com/blog](https://afilina.com/blog)  
+💬 on [![mastodon](icon/mastodon.svg) @afilina@phpc.social](https://phpc.social/@afilina)
+· [![linkedin](icon/linkedin.svg) @anna-filina-…](https://linkedin.com/in/anna-filina-43a8b3322)
+
+---
+
 
 (this is work in progress)
