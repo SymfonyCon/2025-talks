@@ -886,4 +886,26 @@ By [Brice Blondiau](https://connect.symfony.com/profile/blondi_b)
 
 ---
 
+## Emerging AI Design Patterns in Symfony
+
+<dl>
+  <dt>Description</dt>
+  <dd>Modern AI features demand more than a quick API call. In this talk, you’ll learn the core patterns that make large-language models dependable, testable, and production-ready inside a Symfony stack, from prompt writing to agent orchestration, guardrails and observability.
+
+Expect concise code snippets, a reference architecture, and concrete checklists you can apply on your next deploy. Ideal for engineers who have experimented with LLMs and now need a blueprint for shipping AI features the Symfony way.</dd>
+</dl>
+
+~~Slides~~  
+~~Video~~  
+~~Blog post~~
+
+By [Titouan Galopin](https://connect.symfony.com/profile/tgalopin)  
+💻 on [![github](icon/github.svg) @tgalopin](https://github.com/tgalopin)  <sup>[💚](https://github.com/sponsors/tgalopin)</sup>  
+✍ on [🌐 medium.com/@galopintitouan](https://medium.com/@galopintitouan)  <sup>[![rss](icon/rss.svg)](https://medium.com/feed/@galopintitouan)</sup>  
+💬 on [![mastodon](icon/mastodon.svg) @tgalopin@phpc.social](https://phpc.social/@tgalopin)
+· [![twitter](icon/twitter.svg) @titouangalopin](https://twitter.com/titouangalopin)
+· [![linkedin](icon/linkedin.svg) @titouangalopin](https://linkedin.com/in/titouangalopin)
+
+---
+
 (this is work in progress)
