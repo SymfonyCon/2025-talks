@@ -718,5 +718,26 @@ By [Mathias Arlaud](https://connect.symfony.com/profile/mtarld)
 
 ---
 
+## Symfony and Rust: Accelerating Hot Paths with FFI
+
+<dl>
+  <dt>Description</dt>
+  <dd>I'm not going to tell you to rebuild your application in Rust. At all. I love Symfony (and PHP), we all do. But there are times when we hit a performance roadblock. Or run out of memory. Maybe even both.
+
+In this talk, we’ll replace part of our logic with a native helper using PHP’s FFI and Rust. We’ll explore performance gains, show practical implementation steps, and discuss when native code makes sense. And finally, I’ll share a skeleton project so you can start experimenting in tonight.</dd>
+</dl>
+
+~~Slides~~  
+~~Video~~  
+~~Blog post~~
+
+By [Mitchel Vroege](https://connect.symfony.com/profile/mitchel)  
+💻 on [![github](icon/github.svg) @MitchelAnthony](https://github.com/MitchelAnthony)  
+_✍ blog not found_  
+💬 on [![twitter](icon/twitter.svg) @mitchelanthony](https://twitter.com/mitchelanthony)
+· [![linkedin](icon/linkedin.svg) @mitchel-vroege](https://linkedin.com/in/mitchel-vroege)
+
+---
+
 
 (this is work in progress)
