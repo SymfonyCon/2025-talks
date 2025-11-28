@@ -947,4 +947,16 @@ By [Stiven Llupa](https://connect.symfony.com/profile/sllupa)
 
 ---
 
-(this is work in progress)
+## A Year of Symfony!
+
+~~Slides~~  
+~~Video~~  
+~~Blog post~~
+
+By [Nicolas Grekas](https://connect.symfony.com/profile/nicolas-grekas)  
+💻 on [![github](icon/github.svg) @nicolas-grekas](https://github.com/nicolas-grekas)  <sup>[💚](https://github.com/sponsors/nicolas-grekas)</sup>  
+✍ on [🌐 medium.com/@nicolas.grekas](https://medium.com/@nicolas.grekas)  <sup>[![rss](icon/rss.svg)](https://medium.com/feed/@nicolas.grekas)</sup>  
+💬 on [![twitter](icon/twitter.svg) @nicolasgrekas](https://twitter.com/nicolasgrekas)
+· [![bluesky](icon/bluesky.svg) @nicolasgrekas.bsky.social](https://bsky.app/profile/nicolasgrekas.bsky.social)
+· [![mastodon](icon/mastodon.svg) @nicolasgrekas@phpc.social](https://phpc.social/@nicolasgrekas)
+· [![linkedin](icon/linkedin.svg) @nicolasgrekas](https://linkedin.com/in/nicolasgrekas)
