@@ -594,4 +594,33 @@ By [Alexander Schranz](https://connect.symfony.com/profile/alexander-schranz)
 
 ---
 
+## Blast Off Your CI with Dagger
+
+<dl>
+  <dt>Description</dt>
+  <dd>Paul presented Dagger to us at Vienna last year, and it completely blew our minds away!
+Dagger is the new way of writing CI pipelines (by the creator of Docker).
+
+Let's see how we leveraged it to:
+* Run tests locally exactly as they're executed in your CI (no more "My tests pass locally but not in the CI").
+* Write only pure PHP and get rid of most of the YAML bloat.
+* Effortlessly execute a test matrix for multiple versions of Symfony and PHP.
+
+Naturally, we used it in `SensioLabs/GotenbergBundle`, a real-world use case.
+Join us and learn how to empower PHP for your CI and eliminate the YAML!</dd>
+</dl>
+
+~~Slides~~  
+~~Video~~  
+~~Blog post~~
+
+By [Adrien Roches](https://connect.symfony.com/profile/neirda24)  
+💻 on [![github](icon/github.svg) @Neirda24](https://github.com/Neirda24)  
+✍ on [🌐 blog.roc-it.tech](https://blog.roc-it.tech/)  <sup>[![rss](icon/rss.svg)](https://blog.roc-it.tech/rss/)</sup>  
+💬 on [![bluesky](icon/bluesky.svg) @adrienroches.bsky.social](https://bsky.app/profile/adrienroches.bsky.social)
+· [![twitter](icon/twitter.svg) @AdrienRoches](https://twitter.com/AdrienRoches)
+· [![linkedin](icon/linkedin.svg) @adrien-roches](https://linkedin.com/in/adrien-roches)
+
+---
+
 (this is work in progress)
