@@ -91,7 +91,7 @@ In this talk, I explain my journaling system, how it works for me, and how you c
 This is for developers: it is not an app, nor a SaaS. It's something you can use within your own IDE, with your own workflow, and your own modifications.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://timobakx.dev/talks/2025-ai-journaling/)  
 ~~Video~~  
 ~~Blog post~~
 
