@@ -573,5 +573,25 @@ By [Anna Filina](https://connect.symfony.com/profile/afilina)
 
 ---
 
+## A productive Frontend Stack with Symfony UX
+
+<dl>
+  <dt>Description</dt>
+  <dd>Backend-rendered HTML is back. With the rise of Symfony UX, Twig is becoming more and more important. In this talk, we will look at how you can structure your Twig files without them becoming a mess, and what kind of tricks Twig offers to create reusable components. We'll explore how Symfony Form Theming works and why JavaScript frameworks like Hotwire Turbo with Stimulus and Tailwind make for a productive frontend stack for your next project.</dd>
+</dl>
+
+~~Slides~~  
+~~Video~~  
+~~Blog post~~
+
+By [Alexander Schranz](https://connect.symfony.com/profile/alexander-schranz)  
+💻 on [![github](icon/github.svg) @alexander-schranz](https://github.com/alexander-schranz)  <sup>[💚](https://github.com/sponsors/alexander-schranz)</sup>  
+✍ on [🌐 blog.com](https://github.com/topics/alexander-schranz-article)  
+💬 on [![bluesky](icon/bluesky.svg) @alexanderschranz.com](https://bsky.app/profile/alexanderschranz.com)
+· [![twitter](icon/twitter.svg) @alex_s_](https://twitter.com/alex_s_)
+· [![mastodon](icon/mastodon.svg) @alex_s_@mastodon.social](https://mastodon.social/@alex_s_)
+· [![linkedin](icon/linkedin.svg) @alexander-schranz](https://linkedin.com/in/alexander-schranz)
+
+---
 
 (this is work in progress)
