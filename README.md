@@ -928,4 +928,23 @@ By [Benjamin Eberlei](https://connect.symfony.com/profile/beberlei)
 
 ---
 
+## Semantic Search: From Keywords to Intent with Symfony AI
+
+<dl>
+  <dt>Description</dt>
+  <dd>Add semantic search to Symfony by leveraging RAG approaches, open-source LLMs and Symfony AI. Lessons learned from an automotive PoC, architecture, pitfalls, and moving beyond keywords to intent.</dd>
+</dl>
+
+~~Slides~~  
+~~Video~~  
+~~Blog post~~
+
+By [Stiven Llupa](https://connect.symfony.com/profile/sllupa)  
+💻 on [![github](icon/github.svg) @llupa](https://github.com/llupa)  
+✍ on [🌐 llupa.rocks](https://llupa.rocks/)  <sup>[![rss](icon/rss.svg)](https://llupa.rocks/feed/)</sup>  
+💬 on [![mastodon](icon/mastodon.svg) @llupa@phpc.social](https://phpc.social/@llupa)
+· [![linkedin](icon/linkedin.svg) @stiven-llupa-…](https://linkedin.com/in/stiven-llupa-3a6367238)
+
+---
+
 (this is work in progress)
