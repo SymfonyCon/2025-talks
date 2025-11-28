@@ -844,5 +844,26 @@ By [Kris Wallsmith](https://connect.symfony.com/profile/kriswallsmith)
 
 ---
 
+## Inside the first Git commit: powerful ideas behind a minimal start
+
+<dl>
+  <dt>Description</dt>
+  <dd>In this talk, we will dissect the first Git commit by Linus Torvalds and uncover the powerful software design principles embedded in its earliest code. We will explore how Git’s choice of data structures (like immutable content-addressed blobs and trees) laid the foundation for reliability, correctness, and performance.
+
+We will also highlight how Git is a brilliant embodiment of Unix philosophy: small, composable tools; reliance on the filesystem; text-based formats; and simplicity in interface with power in composition. Even in its minimal form, Git introduced key operations such as SHA-1 hashing, snapshot storage, and a filesystem-based object database that collectively reflect deep design clarity.</dd>
+</dl>
+
+~~Slides~~  
+~~Video~~  
+~~Blog post~~
+
+By [Valentin Rusev](https://connect.symfony.com/profile/valentinrusev)  
+💻 on [![github](icon/github.svg) @valentinboyanov](https://github.com/valentinboyanov)  
+_✍ blog not found_  
+💬 on [![twitter](icon/twitter.svg) @kolbyfloyd](https://twitter.com/kolbyfloyd)
+· [![linkedin](icon/linkedin.svg) @valentin-rusev-…](https://linkedin.com/in/valentin-rusev-670a30103)
+
+---
+
 
 (this is work in progress)
