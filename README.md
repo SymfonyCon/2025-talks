@@ -739,5 +739,24 @@ _✍ blog not found_
 
 ---
 
+## Inside Gally: Building an AI Product Discovery Tool with Symfony
+
+<dl>
+  <dt>Description</dt>
+  <dd>After presenting Gally last year, this time we will take a technical look at its design. We will show how Symfony enables us to abstract search configuration, automatically generate an API through stitching, and integrate modern approaches such as vector search and conversational search to leverage AI. This talk will share our experience on how to turn Symfony into a solid foundation for building a discovery product that is robust, modular, and future-oriented.</dd>
+</dl>
+
+~~Slides~~  
+~~Video~~  
+~~Blog post~~
+
+By [Romain Ruaud](https://connect.symfony.com/profile/romainruaud)  
+💻 on [![github](icon/github.svg) @romainruaud](https://github.com/romainruaud)  <sup>[💚](https://github.com/sponsors/pseudo)</sup>  
+_✍ blog not found_  
+💬 on [![twitter](icon/twitter.svg) @romain_ruaud](https://twitter.com/romain_ruaud)
+· [![linkedin](icon/linkedin.svg) @romain-ruaud-…](https://linkedin.com/in/romain-ruaud-5a001a20)
+
+---
+
 
 (this is work in progress)
