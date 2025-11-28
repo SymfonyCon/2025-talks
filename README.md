@@ -669,4 +669,24 @@ By [Oskar Barcz](https://connect.symfony.com/profile/oskarbarcz)
 
 ---
 
+## The CI/CD Pipeline in 2025: GitOps, AI, and Zero-Trust in Action
+
+<dl>
+  <dt>Description</dt>
+  <dd>Go beyond classic automation and discover the intelligent, secure CI/CD pipeline of the future. This session uses a concrete, containerized Symfony application to demonstrate the key pillars of a next-generation software delivery lifecycle. We will explore how to drive the entire pipeline with GitOps as the single source of truth, how to integrate "Zero-Trust" security at every stage (SAST, DAST, secrets), how to leverage AI to predict regressions and optimize deployments, how to unify DevOps and MLOps to manage both application and model lifecycles, and how to build a native multi-cloud architecture using Kubernetes and Kustomize.</dd>
+</dl>
+
+~~Slides~~  
+~~Video~~  
+~~Blog post~~
+
+By [Herve Leclerc](https://connect.symfony.com/profile/herlec)  
+💻 on [![github](icon/github.svg) @herveleclerc](https://github.com/herveleclerc)  
+_✍ blog not found_  
+💬 on [![twitter](icon/twitter.svg) @HerveLeclerc_AW](https://twitter.com/HerveLeclerc_AW)
+· [![linkedin](icon/linkedin.svg) @herveleclerc](https://linkedin.com/in/herveleclerc)
+
+---
+
+
 (this is work in progress)
