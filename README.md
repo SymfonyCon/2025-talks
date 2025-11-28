@@ -688,5 +688,35 @@ _✍ blog not found_
 
 ---
 
+## API Platform 4: Forget What You Used to Know
+
+<dl>
+  <dt>Description</dt>
+  <dd>You knew API Platform back in version 2.6 and still think you know how to use it? Bad news: what you did yesterday is probably obsolete today.
+
+Since version 3, and especially version 4 released last September, API Platform has completely transformed: new philosophy, new mechanisms, new developer experience. In short, the framework has grown — and your old habits might now work against you.
+
+In this talk, we will:
+- take stock of what version 4 really means,
+- dissect the major changes (and what they imply in practice),
+- list common mistakes made when coding “like before,”
+- and give you the right reflexes to get the most out of the new version.
+
+Whether you’re coming from v2.6 or just starting out, this talk will help you stop fighting the framework… and finally enjoy its full power.</dd>
+</dl>
+
+~~Slides~~  
+~~Video~~  
+~~Blog post~~
+
+By [Mathias Arlaud](https://connect.symfony.com/profile/mtarld)  
+💻 on [![github](icon/github.svg) @mtarld](https://github.com/mtarld)  <sup>[💚](https://github.com/sponsors/mtarld)</sup>  
+✍ on [🌐 baksla.sh/blog](https://baksla.sh/blog)  
+💬 on [![bluesky](icon/bluesky.svg) @mtarld.bsky.social](https://bsky.app/profile/mtarld.bsky.social)
+· [![twitter](icon/twitter.svg) @matarld](https://twitter.com/matarld)
+· [![linkedin](icon/linkedin.svg) matarld](https://www.linkedin.com/in/matarld)
+
+---
+
 
 (this is work in progress)
