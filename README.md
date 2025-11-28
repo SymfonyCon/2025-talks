@@ -643,4 +643,30 @@ By [Stefan Koopmanschap](https://connect.symfony.com/profile/skoop)
 
 ---
 
+## CQRS in Symfony: yes, but calm down
+
+<dl>
+  <dt>Description</dt>
+  <dd>CQRS is often associated with complex, over-engineered systems. But in real-life Symfony apps, it can be a pragmatic tool to structure features, simplify code and separate concerns - when used right.
+
+In this talk, you’ll see:
+- when and where CQRS brings real value in Symfony projects
+- how to structure commands, handlers, queries and DTOs in a maintainable way
+- practical integration with Symfony Messenger and validation
+- what to avoid: CQRS anti-patterns that create friction, not clarity
+
+I will prove that CQRS can be done right and fast, we'll live-code it! This session is ideal for teams who want to keep their architecture clean — without going full enterprise.</dd>
+</dl>
+
+~~Slides~~  
+~~Video~~  
+~~Blog post~~
+
+By [Oskar Barcz](https://connect.symfony.com/profile/oskarbarcz)  
+💻 on [![github](icon/github.svg) @oskarbarcz](https://github.com/oskarbarcz)  
+✍ on [🌐 blog.com](https://blog.com/)  <sup>[![rss](icon/rss.svg)](https://blog.com/rss/)</sup>  
+💬 on [![linkedin](icon/linkedin.svg) @oskarbarcz](https://linkedin.com/in/oskarbarcz)
+
+---
+
 (this is work in progress)
