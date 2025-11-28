@@ -779,5 +779,30 @@ By [Sebastian Bergmann](https://connect.symfony.com/profile/sebastian_bergmann)
 
 ---
 
+## Package Manager Security in 2025: What's Next?
+
+<dl>
+  <dt>Description</dt>
+  <dd>Package managers are critical infrastructure—and prime targets for supply chain attacks. This talk examines recent security incidents across npm, PyPI, and other ecosystems to understand what threats apply to Composer and Packagist.
+
+We'll explore emerging security standards including SLSA, trusted publishing, build provenance attestations, and reproducible builds. You'll learn how GitHub Actions has become an attack vector, what organizations like OpenSSF and its Package Repository Working Group are doing, which improvements other language packaging ecosystems recently introduced and how two new projects funded by Germany's Sovereign Tech Agency will improve security for the PHP ecosystem.
+
+Whether you maintain packages or just run composer install, you'll gain practical insights into supply chain security threats and the tools being built to address them.</dd>
+</dl>
+
+~~Slides~~  
+~~Video~~  
+~~Blog post~~
+
+By [Nils Adermann](https://connect.symfony.com/profile/naderman)  
+💻 on [![github](icon/github.svg) @naderman](https://github.com/naderman)  <sup>[💚](https://github.com/sponsors/naderman)</sup>  
+✍ on [🌐 blog.naderman.de](https://blog.naderman.de/)  <sup>[![rss](icon/rss.svg)](https://blog.naderman.de/feed/)</sup>  
+💬 on [![bluesky](icon/bluesky.svg) @naderman.de](https://bsky.app/profile/naderman.de)
+· [![mastodon](icon/mastodon.svg) @naderman@phpc.social](https://phpc.social/@naderman)
+· [![twitter](icon/twitter.svg) @naderman](https://twitter.com/naderman)
+· [![linkedin](icon/linkedin.svg) @nilsadermann](https://linkedin.com/in/nilsadermann)
+
+---
+
 
 (this is work in progress)
