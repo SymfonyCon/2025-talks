@@ -865,5 +865,25 @@ _✍ blog not found_
 
 ---
 
+## Geopolitics of Code: How You Can Build the Future of Data and AI
+
+<dl>
+  <dt>Description</dt>
+  <dd>European organizations and individuals are facing critical geopolitical and economic challenges: their reliance on non-European tech giants affects everything from data protection to their capacity for innovation. This session goes beyond the buzzword "digital sovereignty." We will examine the risks to organizations, the data and AI paradigm, and the opportunities that this crisis raises for the European digital ecosystem.
+
+In this session, we will also share practical data and AI strategies that emphasize open-source technologies and European partnerships (like those championed by Smile) which allow for local data control and resilient AI implementation.
+
+As a member of the PHP and Symfony community, you are on the front lines of this transformation. Leave with actionable steps and a clear roadmap for contributing to a resilient, sovereign European digital future, starting with your next project.</dd>
+</dl>
+
+~~Slides~~  
+~~Video~~  
+~~Blog post~~
+
+By [Brice Blondiau](https://connect.symfony.com/profile/blondi_b)  
+✍ on [🌐 smile.eu](https://smile.eu/fr/publications-et-evenements?type[]=news)  
+💬 [![linkedin](icon/linkedin.svg) @brice-blondiau-…](https://linkedin.com/in/brice-blondiau-1253b92)
+
+---
 
 (this is work in progress)
