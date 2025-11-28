@@ -758,5 +758,26 @@ _✍ blog not found_
 
 ---
 
+## Testing with(out) dependencies
+
+<dl>
+  <dt>Description</dt>
+  <dd>Testing a unit of code that depends on other components often raises a critical question: when should you replace real dependencies with Test Stubs or Mock Objects, and when should you allow the code under test to collaborate with actual dependencies?
+
+This session will demystify the effective use of stubs and mocks in unit testing. You'll gain a clear understanding of how to leverage PHPUnit's test double functionality to write robust tests, while also learning which features to avoid for better maintainability and reliability. By the end of this session, you'll be equipped with practical strategies to make informed decisions about dependency handling in your tests.</dd>
+</dl>
+
+~~Slides~~  
+~~Video~~  
+~~Blog post~~
+
+By [Sebastian Bergmann](https://connect.symfony.com/profile/sebastian_bergmann)  
+💻 on [![github](icon/github.svg) @sebastianbergmann](https://github.com/sebastianbergmann)  <sup>[💚](https://github.com/sponsors/sebastianbergmann)</sup>  
+✍ on [🌐 phpunit.expert/articles](https://phpunit.expert/articles/)  <sup>[![rss](icon/rss.svg)](https://phpunit.expert/articles/feed.rss)</sup>  
+💬 on [![mastodon](icon/mastodon.svg) @sebastian@phpc.social](https://phpc.social/@sebastian)
+· [![linkedin](icon/linkedin.svg) @sebastian-bergmann-phpunit](https://linkedin.com/in/sebastian-bergmann-phpunit)
+
+---
+
 
 (this is work in progress)
