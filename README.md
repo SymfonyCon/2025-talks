@@ -822,5 +822,27 @@ By [Alejandro REYES AMARO](https://connect.symfony.com/profile/alejandro_reyes)
 
 ---
 
+## Unleash the Power of Symfony Messenger
+
+<dl>
+  <dt>Description</dt>
+  <dd>This talk will go into detail about how Vacatia leverages the Symfony Messenger component to power our tech stack's critical integration layer. We will look at how and why we use multiple message buses, tracing across multiple messages, chaining interdependent messages together, message batching, and more.
+
+If you want to take your understanding of the messenger component to the next level, this talk is for you!</dd>
+</dl>
+
+~~Slides~~  
+~~Video~~  
+~~Blog post~~
+
+By [Kris Wallsmith](https://connect.symfony.com/profile/kriswallsmith)  
+💻 on [![github](icon/github.svg) @kriswallsmith](https://github.com/kriswallsmith)  
+✍ on [🌐 kriswallsmith.net](https://kriswallsmith.net/)  <sup>[![rss](icon/rss.svg)](https://kriswallsmith.net/rss)</sup>  
+💬 on [![bluesky](icon/bluesky.svg) @kriswallsmith.bsky.social](https://bsky.app/profile/kriswallsmith.bsky.social)
+· [![twitter](icon/twitter.svg) @kriswallsmith](https://twitter.com/kriswallsmith)
+· [![linkedin](icon/linkedin.svg) @kriswallsmith](https://linkedin.com/in/kriswallsmith)
+
+---
+
 
 (this is work in progress)
