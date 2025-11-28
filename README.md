@@ -623,4 +623,24 @@ By [Adrien Roches](https://connect.symfony.com/profile/neirda24)
 
 ---
 
+## How to make good decisions with a happy team
+
+<dl>
+  <dt>Description</dt>
+  <dd>We've all been there: After a lot of discussion the team can still not agree on a given solution. A majority vote makes the decision, but that leaves team members unhappy and unsatisfied. What if I told you there is a way to make sure every team member is heard and will support the eventual team decision? In this talk, I will introduce the concept of sociocracy, a method for discussion and decision-making.</dd>
+</dl>
+
+~~Slides~~  
+~~Video~~  
+~~Blog post~~
+
+By [Stefan Koopmanschap](https://connect.symfony.com/profile/skoop)  
+💻 on [![github](icon/github.svg) @skoop](https://github.com/skoop)  
+✍ on [🌐 skoop.dev](https://skoop.dev/)  <sup>[![rss](icon/rss.svg)](https://skoop.dev/feed/)</sup>  
+💬 on [![mastodon](icon/mastodon.svg) @Skoop@phpc.social](https://phpc.social/@skoop)
+· [![twitter](icon/twitter.svg) @skoopnl](https://twitter.com/skoopnl)
+· [![linkedin](icon/linkedin.svg) @stefankoopmanschap](https://linkedin.com/in/stefankoopmanschap)
+
+---
+
 (this is work in progress)
