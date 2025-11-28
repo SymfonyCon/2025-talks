@@ -767,9 +767,9 @@ _✍ blog not found_
 This session will demystify the effective use of stubs and mocks in unit testing. You'll gain a clear understanding of how to leverage PHPUnit's test double functionality to write robust tests, while also learning which features to avoid for better maintainability and reliability. By the end of this session, you'll be equipped with practical strategies to make informed decisions about dependency handling in your tests.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://phpunit.expert/presentations/testing-without-dependencies.html)  
 ~~Video~~  
-~~Blog post~~
+[Blog post](https://phpunit.expert/articles/testing-with-and-without-dependencies.html)
 
 By [Sebastian Bergmann](https://connect.symfony.com/profile/sebastian_bergmann)  
 💻 on [![github](icon/github.svg) @sebastianbergmann](https://github.com/sebastianbergmann)  <sup>[💚](https://github.com/sponsors/sebastianbergmann)</sup>  
