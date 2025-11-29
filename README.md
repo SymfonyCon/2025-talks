@@ -584,7 +584,7 @@ By [Anna Filina](https://connect.symfony.com/profile/afilina)
   <dd>Backend-rendered HTML is back. With the rise of Symfony UX, Twig is becoming more and more important. In this talk, we will look at how you can structure your Twig files without them becoming a mess, and what kind of tricks Twig offers to create reusable components. We'll explore how Symfony Form Theming works and why JavaScript frameworks like Hotwire Turbo with Stimulus and Tailwind make for a productive frontend stack for your next project.</dd>
 </dl>
 
-[Slides](https://speakerdeck.com/alexanderschranz/a-productive-frontend-stack-with-symfony-ux-amsterdam-2025)
+[Slides](https://speakerdeck.com/alexanderschranz/a-productive-frontend-stack-with-symfony-ux-amsterdam-2025)  
 ~~Video~~  
 ~~Blog post~~
 
