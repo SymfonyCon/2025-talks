@@ -662,7 +662,7 @@ In this talk, you’ll see:
 I will prove that CQRS can be done right and fast, we'll live-code it! This session is ideal for teams who want to keep their architecture clean — without going full enterprise.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://docs.google.com/presentation/d/13GVdUHDshBCCNDID6xQgTydyqEthnCIu5eFHII2GBFY)  
 ~~Video~~  
 ~~Blog post~~
 
