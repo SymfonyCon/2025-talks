@@ -919,7 +919,7 @@ By [Titouan Galopin](https://connect.symfony.com/profile/tgalopin)
   <dd>Starting with PHP 8.4 you can implement lazy loading and proxy objects with native PHP functionality with little overhead and no code generation required. Both Doctrine and Symfony are historically using the proxy pattern with solutions and workarounds built in PHP. In this talk I will explain PHPs 8.4s native lazy objects and how it will be a game changer to both Doctrine and Symfony going forward.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://speakerdeck.com/beberlei/how-native-lazy-objects-will-change-doctrine-and-symfony-forever)  
 ~~Video~~  
 ~~Blog post~~
 
