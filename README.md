@@ -815,7 +815,7 @@ By [Nils Adermann](https://connect.symfony.com/profile/naderman)
   <dd>Large Language Models are powerful, but making them useful in enterprise contexts requires more than just prompts. In this session, we’ll explore how Clean Architecture principles enable the design of cloud-agnostic AI agents, with RAG as a guiding use case, ensuring portability, compliance, and sovereignty without sacrificing innovation.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://docs.google.com/presentation/d/1w8MY2u5gCAbgS8AdasVUnFe4P7hbKFW3XwKvPoSIAEE)  
 ~~Video~~  
 ~~Blog post~~
 
