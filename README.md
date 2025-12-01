@@ -711,7 +711,8 @@ Whether you’re coming from v2.6 or just starting out, this talk will help you 
 
 [Slides](https://www.canva.com/design/DAG4sM7icQg/87eWtXUy1HrFoj6tL3FU3Q/view)  
 ~~Video~~  
-~~Blog post~~
+~~Blog post~~  
+[Code example](https://github.com/mtarld/sfcon-apip)
 
 By [Mathias Arlaud](https://connect.symfony.com/profile/mtarld)  
 💻 on [![github](icon/github.svg) @mtarld](https://github.com/mtarld)  <sup>[💚](https://github.com/sponsors/mtarld)</sup>  
