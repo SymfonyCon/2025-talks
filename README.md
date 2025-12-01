@@ -440,7 +440,7 @@ By [Iain Cambridge](https://connect.symfony.com/profile/icambridge)
   <dd>In our pursuit of delivering high-quality code, we increasingly rely on automated tools like PHPUnit, PHPStan, Code-Fixer, Deptrac, and most recently AI. While following the best practices established by these tools' creators is valuable, there's a fine line between effective usage and overreliance. Drawing from our experience as a software vendor, I'll share real-world challenges we face in managing code quality tools. Through practical examples, I'll demonstrate situations where these tools can become counterproductive and present strategies for finding the right balance. Join me in examining whether our dedication to automated quality control might sometimes do more harm than good. Let's retrospect and answer the following question: are WE actually the sharpest (quality) tool in the shed?</dd>
 </dl>
 
-~~Slides~~ 
+~~Slides~~  
 ~~Video~~  
 ~~Blog post~~
 
