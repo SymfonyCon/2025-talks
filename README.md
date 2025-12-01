@@ -795,13 +795,13 @@ We'll explore emerging security standards including SLSA, trusted publishing, bu
 Whether you maintain packages or just run composer install, you'll gain practical insights into supply chain security threats and the tools being built to address them.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://naderman.de/slippy/slides/2025-11-28-SymfonyCon-Amsterdam-2025-Package-Manager-Security-in-2025-Whats-Next.pdf)  
 ~~Video~~  
 ~~Blog post~~
 
 By [Nils Adermann](https://connect.symfony.com/profile/naderman)  
 💻 on [![github](icon/github.svg) @naderman](https://github.com/naderman)  <sup>[💚](https://github.com/sponsors/naderman)</sup>  
-✍ on [🌐 blog.naderman.de](https://blog.naderman.de/)  <sup>[![rss](icon/rss.svg)](https://blog.naderman.de/feed/)</sup>  
+✍ on [🌐 blog.packagist.com](https://blog.packagist.com/)  <sup>[![rss](icon/rss.svg)](https://blog.packagist.com/feed/)</sup>  
 💬 on [![bluesky](icon/bluesky.svg) @naderman.de](https://bsky.app/profile/naderman.de)
 · [![mastodon](icon/mastodon.svg) @naderman@phpc.social](https://phpc.social/@naderman)
 · [![twitter](icon/twitter.svg) @naderman](https://twitter.com/naderman)
