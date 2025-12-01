@@ -139,7 +139,7 @@ By [Rob Allen](https://connect.symfony.com/profile/akrabat)
 Then, we'll move on to a whole lot of async PHP implementation using Ratchet for WebSockets. If you've ever wanted to learn how to build something for multiple users communicating in real time, this simple and fun use case is for you.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://www.canva.com/design/DAFJx_6OETo/YJFQf1RgMj4AB2ulkJsAOQ/edit?utm_content=DAFJx_6OETo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)  
 ~~Video~~  
 ~~Blog post~~
 
