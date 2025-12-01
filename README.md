@@ -352,7 +352,7 @@ _✍ blog not found_
 This talk will go over the MCP protocol, why we care and how to use it to create an AI service that is helpful.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://nyholm.tech/presentation/make-your-ai-useful-with-mcp.html)
 ~~Video~~  
 ~~Blog post~~
 
