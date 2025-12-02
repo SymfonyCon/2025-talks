@@ -501,7 +501,7 @@ By [Guillaume Moigneu](https://connect.symfony.com/profile/gmoigneu)
   <dd>SQL has been around longer than most of us have been writing code—and it shows. Originally built for tidy tables and straightforward joins, it’s now being stretched to handle JSON documents, arrays, and even composite types. Meanwhile, so-called “NoSQL” databases are sneaking SQL in through the back door. In this talk, we’ll take a slightly ranty tour through the history of SQL, the rise of document databases like MongoDB and CouchDB, and the awkward state of modern query languages. If you’ve ever tried updating a nested JSONB field in MySQL and thought, “there has to be a better way”—this one’s for you.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://speakerdeck.com/alcaeus/coping-with-a-bad-sequel-d1604fd6-52d6-4759-8a59-3dee836d0f0b)  
 ~~Video~~  
 ~~Blog post~~
 
