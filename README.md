@@ -382,7 +382,7 @@ It's available since Symfony 7.3, and will get even better in a future version.
 Join me to rediscover the Console!</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://speakerdeck.com/chalasr/rediscover-the-console-symfonycon-amsterdam-2025)  
 ~~Video~~  
 ~~Blog post~~
 
