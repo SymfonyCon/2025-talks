@@ -41,7 +41,7 @@ We'll take a modern application built with API Platform and supercharge it, show
 </dl>
 
 [Slides](https://speakerdeck.com/soyuka/2025-performance-milestone-for-the-symfony-ecosystem)  
-~~Video~~  
+[Video](https://live.symfony.com/account/replay/video/1141) <sup>(not free)</sup>  
 [Blog post](https://soyuka.me/2025-performance-milestone-for-the-symfony-ecosystem/)
 
 By [Antoine Bluchet](https://connect.symfony.com/profile/soyuka)  
@@ -71,7 +71,7 @@ This talk is for anyone who believes PHP can be both powerful and performant —
 </dl>
 
 ~~Slides~~  
-~~Video~~  
+[Video](https://live.symfony.com/account/replay/video/1154) <sup>(not free)</sup>  
 ~~Blog post~~
 
 By [Jérôme Vieilledent](https://connect.symfony.com/profile/lolautruche)  
@@ -96,7 +96,7 @@ This is for developers: it is not an app, nor a SaaS. It's something you can use
 </dl>
 
 [Slides](https://timobakx.dev/talks/2025-ai-journaling/)  
-~~Video~~  
+[Video](https://live.symfony.com/account/replay/video/1200) <sup>(not free)</sup>  
 ~~Blog post~~
 
 By [Timo Bakx](https://connect.symfony.com/profile/timobakx)  
@@ -117,7 +117,7 @@ By [Timo Bakx](https://connect.symfony.com/profile/timobakx)
 </dl>
 
 [Slides](https://speaking.akrabat.com/8DFKuN)  
-~~Video~~  
+[Video](https://live.symfony.com/account/replay/video/1143) <sup>(not free)</sup>  
 [Blog post](https://akrabat.com/talks/strategic-ddd/)
 
 By [Rob Allen](https://connect.symfony.com/profile/akrabat)  
@@ -140,7 +140,7 @@ Then, we'll move on to a whole lot of async PHP implementation using Ratchet for
 </dl>
 
 [Slides](https://www.canva.com/design/DAFJx_6OETo/YJFQf1RgMj4AB2ulkJsAOQ/edit)  
-~~Video~~  
+[Video](https://live.symfony.com/account/replay/video/1134) <sup>(not free)</sup>  
 ~~Blog post~~
 
 By [Pauline Vos](https://connect.symfony.com/profile/paulinevos)  
@@ -165,7 +165,7 @@ Whether you're looking to enhance a legacy WordPress site with modern Symfony fr
 </dl>
 
 [Slides](https://speakerdeck.com/alexandresalome/integrating-wordpress-and-symfony)  
-~~Video~~  
+[Video](https://live.symfony.com/account/replay/video/1140) <sup>(not free)</sup>  
 ~~Blog post~~  
 [Examples for integrating WordPress with Symfony](https://github.com/alexandresalome/symfony-wordpress)
 
@@ -185,7 +185,7 @@ By [Alexandre Salomé](https://connect.symfony.com/profile/alexandresalome)
 </dl>
 
 ~~Slides~~  
-~~Video~~  
+[Video](https://live.symfony.com/account/replay/video/1166) <sup>(not free)</sup>  
 ~~Blog post~~  
 [Code](https://github.com/dragoonis/symfonycon-2025-scaling)
 
@@ -205,7 +205,7 @@ _✍ blog not found_
 </dl>
 
 [Slides](https://speakerdeck.com/dbrumann/distributed-transactions-with-symfony)  
-~~Video~~  
+[Video](https://live.symfony.com/account/replay/video/1158) <sup>(not free)</sup>  
 ~~Blog post~~
 
 By [Denis Brumann](https://connect.symfony.com/profile/dbrumann)  
@@ -238,7 +238,7 @@ Whether you're working with e-commerce applications, logs, user events, IoT data
 </dl>
 
 ~~Slides~~  
-~~Video~~  
+[Video](https://live.symfony.com/account/replay/video/1148) <sup>(not free)</sup>  
 ~~Blog post~~  
 [Demo project · ClickHouse for Symfony Developers](https://github.com/romainneutron/clickhouse-symfony-symfonycon2025)
 
@@ -265,7 +265,7 @@ During this talk, I will present the architecture of a modern Symfony applicatio
 </dl>
 
 ~~Slides~~  
-~~Video~~  
+[Video](https://live.symfony.com/account/replay/video/1142) <sup>(not free)</sup>  
 ~~Blog post~~
 
 By [Kévin Dunglas](https://connect.symfony.com/profile/dunglas)  
@@ -306,7 +306,7 @@ Amazing, all of this happens with very few LOC (Lines of Code). Knowing what too
 </dl>
 
 ~~Slides~~  
-~~Video~~  
+[Video](https://live.symfony.com/account/replay/video/1167) <sup>(not free)</sup>  
 ~~Blog post~~
 
 By [Tac (Michael) Tacelosky](https://connect.symfony.com/profile/tacman1123)  
@@ -327,7 +327,7 @@ AI should feel like a power tool, not a vibe. In this live demo we use an AI ass
 </dl>
 
 ~~Slides~~  
-~~Video~~  
+[Video](https://live.symfony.com/account/replay/video/1168) <sup>(not free)</sup>  
 ~~Blog post~~
 
 By [Greg Qualls](https://connect.symfony.com/profile/gregqualls)  
@@ -353,7 +353,7 @@ This talk will go over the MCP protocol, why we care and how to use it to create
 </dl>
 
 [Slides](https://nyholm.tech/presentation/make-your-ai-useful-with-mcp.html)  
-~~Video~~  
+[Video](https://live.symfony.com/account/replay/video/1130) <sup>(not free)</sup>  
 ~~Blog post~~
 
 By [Tobias Nyholm](https://connect.symfony.com/profile/tobias)  
@@ -383,7 +383,7 @@ Join me to rediscover the Console!</dd>
 </dl>
 
 [Slides](https://speakerdeck.com/chalasr/rediscover-the-console-symfonycon-amsterdam-2025)  
-~~Video~~  
+[Video](https://live.symfony.com/account/replay/video/1129) <sup>(not free)</sup>  
 ~~Blog post~~
 
 By [Robin Chalas](https://connect.symfony.com/profile/chalas_r)  
@@ -398,13 +398,8 @@ By [Robin Chalas](https://connect.symfony.com/profile/chalas_r)
 
 ## From PR to launch: how code becomes product narrative
 
-<dl>
-  <dt>Description</dt>
-  <dd>...</dd>
-</dl>
-
 ~~Slides~~  
-~~Video~~  
+[Video](https://live.symfony.com/account/replay/video/1169) <sup>(not free)</sup>  
 ~~Blog post~~
 
 By [Céleste van der Watt](https://connect.symfony.com/profile/cvanderwatt)  
@@ -422,7 +417,7 @@ _✍ blog not found_
 </dl>
 
 [Slides](https://speakerdeck.com/thatguyiain/symfonycon-2025-multitenant)  
-~~Video~~  
+[Video](https://live.symfony.com/account/replay/video/1137) <sup>(not free)</sup>  
 ~~Blog post~~
 
 By [Iain Cambridge](https://connect.symfony.com/profile/icambridge)  
@@ -441,7 +436,7 @@ By [Iain Cambridge](https://connect.symfony.com/profile/icambridge)
 </dl>
 
 ~~Slides~~  
-~~Video~~  
+[Video](https://live.symfony.com/account/replay/video/1139) <sup>(not free)</sup>  
 ~~Blog post~~
 
 By [Konrad Oboza](https://connect.symfony.com/profile/konradoboza)  
@@ -463,7 +458,7 @@ Whether you’re working with Symfony or other tech stacks, this session will eq
 </dl>
 
 ~~Slides~~  
-~~Video~~  
+[Video](https://live.symfony.com/account/replay/video/1157) <sup>(not free)</sup>  
 ~~Blog post~~
 
 By [Kemi Elizabeth Ojogbede](https://connect.symfony.com/profile/kemiojogbede)  
@@ -482,7 +477,7 @@ By [Kemi Elizabeth Ojogbede](https://connect.symfony.com/profile/kemiojogbede)
 </dl>
 
 ~~Slides~~  
-~~Video~~  
+[Video](https://live.symfony.com/account/replay/video/1152) <sup>(not free)</sup>  
 ~~Blog post~~
 
 By [Guillaume Moigneu](https://connect.symfony.com/profile/gmoigneu)  
@@ -502,7 +497,7 @@ By [Guillaume Moigneu](https://connect.symfony.com/profile/gmoigneu)
 </dl>
 
 [Slides](https://speakerdeck.com/alcaeus/coping-with-a-bad-sequel-d1604fd6-52d6-4759-8a59-3dee836d0f0b)  
-~~Video~~  
+[Video](https://live.symfony.com/account/replay/video/1132) <sup>(not free)</sup>  
 ~~Blog post~~
 
 By [Andreas Braun](https://connect.symfony.com/profile/alcaeus)  
@@ -522,7 +517,7 @@ _✍ blog not found_
 </dl>
 
 [Slides](https://speakerdeck.com/shyim/installing-symfony-with-symfony-using-the-browser)  
-~~Video~~  
+[Video](https://live.symfony.com/account/replay/video/1159) <sup>(not free)</sup>  
 ~~Blog post~~
 
 By [Soner Sayakci](https://connect.symfony.com/profile/shyim)  
@@ -545,7 +540,7 @@ If you are looking for input on how to approach AI, need ideas where to get star
 </dl>
 
 [Slides](https://speakerdeck.com/el_stoffel/symfony-ai-in-action)  
-~~Video~~  
+[Video](https://live.symfony.com/account/replay/video/1128)  
 ~~Blog post~~
 
 By [Christopher Hertel](https://connect.symfony.com/profile/chertel)  
@@ -566,7 +561,7 @@ By [Christopher Hertel](https://connect.symfony.com/profile/chertel)
 </dl>
 
 ~~Slides~~  
-~~Video~~  
+[Video](https://live.symfony.com/account/replay/video/1133) <sup>(not free)</sup>  
 ~~Blog post~~
 
 By [Anna Filina](https://connect.symfony.com/profile/afilina)  
@@ -585,7 +580,7 @@ By [Anna Filina](https://connect.symfony.com/profile/afilina)
 </dl>
 
 [Slides](https://speakerdeck.com/alexanderschranz/a-productive-frontend-stack-with-symfony-ux-amsterdam-2025)  
-~~Video~~  
+[Video](https://live.symfony.com/account/replay/video/1151) <sup>(not free)</sup>  
 ~~Blog post~~
 
 By [Alexander Schranz](https://connect.symfony.com/profile/alexander-schranz)  
@@ -615,7 +610,7 @@ Join us and learn how to empower PHP for your CI and eliminate the YAML!</dd>
 </dl>
 
 ~~Slides~~  
-~~Video~~  
+[Video](https://live.symfony.com/account/replay/video/1162) <sup>(not free)</sup>  
 ~~Blog post~~
 
 By [Adrien Roches](https://connect.symfony.com/profile/neirda24)  
@@ -635,7 +630,7 @@ By [Adrien Roches](https://connect.symfony.com/profile/neirda24)
 </dl>
 
 ~~Slides~~  
-~~Video~~  
+[Video](https://live.symfony.com/account/replay/video/1135) <sup>(not free)</sup>  
 ~~Blog post~~
 
 By [Stefan Koopmanschap](https://connect.symfony.com/profile/skoop)  
@@ -663,7 +658,7 @@ I will prove that CQRS can be done right and fast, we'll live-code it! This sess
 </dl>
 
 [Slides](https://docs.google.com/presentation/d/13GVdUHDshBCCNDID6xQgTydyqEthnCIu5eFHII2GBFY)  
-~~Video~~  
+[Video](https://live.symfony.com/account/replay/video/1155) <sup>(not free)</sup>  
 ~~Blog post~~
 
 By [Oskar Barcz](https://connect.symfony.com/profile/oskarbarcz)  
@@ -681,7 +676,7 @@ By [Oskar Barcz](https://connect.symfony.com/profile/oskarbarcz)
 </dl>
 
 ~~Slides~~  
-~~Video~~  
+[Video](https://live.symfony.com/account/replay/video/1163) <sup>(not free)</sup>  
 ~~Blog post~~
 
 By [Herve Leclerc](https://connect.symfony.com/profile/herlec)  
@@ -710,7 +705,7 @@ Whether you’re coming from v2.6 or just starting out, this talk will help you 
 </dl>
 
 [Slides](https://www.canva.com/design/DAG4sM7icQg/87eWtXUy1HrFoj6tL3FU3Q/view)  
-~~Video~~  
+[Video](https://live.symfony.com/account/replay/video/1144) <sup>(not free)</sup>  
 ~~Blog post~~  
 [Code example](https://github.com/mtarld/sfcon-apip)
 
@@ -733,7 +728,7 @@ In this talk, we’ll replace part of our logic with a native helper using PHP�
 </dl>
 
 ~~Slides~~  
-~~Video~~  
+[Video](https://live.symfony.com/account/replay/video/1150) <sup>(not free)</sup>  
 ~~Blog post~~
 
 By [Mitchel Vroege](https://connect.symfony.com/profile/mitchel)  
@@ -752,7 +747,7 @@ _✍ blog not found_
 </dl>
 
 ~~Slides~~  
-~~Video~~  
+[Video](https://live.symfony.com/account/replay/video/1165) <sup>(not free)</sup>  
 ~~Blog post~~
 
 By [Romain Ruaud](https://connect.symfony.com/profile/romainruaud)  
@@ -773,7 +768,7 @@ This session will demystify the effective use of stubs and mocks in unit testing
 </dl>
 
 [Slides](https://phpunit.expert/presentations/testing-without-dependencies.html)  
-~~Video~~  
+[Video](https://live.symfony.com/account/replay/video/1138) <sup>(not free)</sup>  
 [Blog post](https://phpunit.expert/articles/testing-with-and-without-dependencies.html)
 
 By [Sebastian Bergmann](https://connect.symfony.com/profile/sebastian_bergmann)  
@@ -796,7 +791,7 @@ Whether you maintain packages or just run composer install, you'll gain practica
 </dl>
 
 [Slides](https://naderman.de/slippy/slides/2025-11-28-SymfonyCon-Amsterdam-2025-Package-Manager-Security-in-2025-Whats-Next.pdf)  
-~~Video~~  
+[Video](https://live.symfony.com/account/replay/video/1171) <sup>(not free)</sup>  
 ~~Blog post~~
 
 By [Nils Adermann](https://connect.symfony.com/profile/naderman)  
@@ -817,7 +812,7 @@ By [Nils Adermann](https://connect.symfony.com/profile/naderman)
 </dl>
 
 [Slides](https://docs.google.com/presentation/d/1w8MY2u5gCAbgS8AdasVUnFe4P7hbKFW3XwKvPoSIAEE)  
-~~Video~~  
+[Video](https://live.symfony.com/account/replay/video/1164) <sup>(not free)</sup>  
 ~~Blog post~~
 
 By [Alejandro REYES AMARO](https://connect.symfony.com/profile/alejandro_reyes)  
@@ -837,7 +832,7 @@ If you want to take your understanding of the messenger component to the next le
 </dl>
 
 [Slides](./slides/Symfony%20Messenger%20Amsterdam.pdf)  
-~~Video~~  
+[Video](https://live.symfony.com/account/replay/video/1153) <sup>(not free)</sup>  
 ~~Blog post~~
 
 By [Kris Wallsmith](https://connect.symfony.com/profile/kriswallsmith)  
@@ -859,7 +854,7 @@ We will also highlight how Git is a brilliant embodiment of Unix philosophy: sma
 </dl>
 
 ~~Slides~~  
-~~Video~~  
+[Video](https://live.symfony.com/account/replay/video/1147) <sup>(not free)</sup>  
 ~~Blog post~~
 
 By [Valentin Rusev](https://connect.symfony.com/profile/valentinrusev)  
@@ -882,7 +877,7 @@ As a member of the PHP and Symfony community, you are on the front lines of this
 </dl>
 
 ~~Slides~~  
-~~Video~~  
+[Video](https://live.symfony.com/account/replay/video/1170) <sup>(not free)</sup>  
 ~~Blog post~~
 
 By [Brice Blondiau](https://connect.symfony.com/profile/blondi_b)  
@@ -901,7 +896,7 @@ Expect concise code snippets, a reference architecture, and concrete checklists 
 </dl>
 
 ~~Slides~~  
-~~Video~~  
+[Video](https://live.symfony.com/account/replay/video/1156) <sup>(not free)</sup>  
 ~~Blog post~~
 
 By [Titouan Galopin](https://connect.symfony.com/profile/tgalopin)  
@@ -921,7 +916,7 @@ By [Titouan Galopin](https://connect.symfony.com/profile/tgalopin)
 </dl>
 
 [Slides](https://speakerdeck.com/beberlei/how-native-lazy-objects-will-change-doctrine-and-symfony-forever)  
-~~Video~~  
+[Video](https://live.symfony.com/account/replay/video/1145) <sup>(not free)</sup>  
 ~~Blog post~~
 
 By [Benjamin Eberlei](https://connect.symfony.com/profile/beberlei)  
@@ -941,7 +936,7 @@ By [Benjamin Eberlei](https://connect.symfony.com/profile/beberlei)
 </dl>
 
 [Slides](https://github.com/llupa/talks/blob/main/SymfonyCon-2025-From-keywords-to-intent.pdf)  
-~~Video~~  
+[Video](https://live.symfony.com/account/replay/video/1161) <sup>(not free)</sup>  
 ~~Blog post~~
 
 By [Stiven Llupa](https://connect.symfony.com/profile/sllupa)  
@@ -955,7 +950,7 @@ By [Stiven Llupa](https://connect.symfony.com/profile/sllupa)
 ## A Year of Symfony!
 
 ~~Slides~~  
-~~Video~~  
+[Video](https://live.symfony.com/account/replay/video/1136) <sup>(not free)</sup>  
 ~~Blog post~~
 
 By [Nicolas Grekas](https://connect.symfony.com/profile/nicolas-grekas)  
