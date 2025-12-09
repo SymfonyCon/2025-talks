@@ -11,7 +11,7 @@
 
 #### Blog post & videos about the event <sup>[[add link]](https://github.com/SymfonyCon/2025-talks/edit/main/README.md)</sup>
 
-- 
+- [SensioLabs.com/fr/blog](https://sensiolabs.com/fr/blog/2025/symfonycon-amsterdam-2025-bilan-moments-forts) <sup>[![rss](icon/rss.svg)](https://sensiolabs.com/fr/rss.xml)</sup>  
 
 ---
 
