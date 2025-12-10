@@ -11,6 +11,7 @@
 
 #### Blog post & videos about the event <sup>[[add link]](https://github.com/SymfonyCon/2025-talks/edit/main/README.md)</sup>
 
+- [Les-Tilleuls.coop/blog](https://les-tilleuls.coop/blog/symfonycon-amsterdam-2025-20-ans-et-une-energie-dadolescent) <sup>[![rss](icon/rss.svg)](https://les-tilleuls.coop/feed.xml)</sup>  
 - [SensioLabs.com/fr/blog](https://sensiolabs.com/fr/blog/2025/symfonycon-amsterdam-2025-bilan-moments-forts) <sup>[![rss](icon/rss.svg)](https://sensiolabs.com/fr/rss.xml)</sup>  
 
 ---
