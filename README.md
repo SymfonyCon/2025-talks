@@ -631,7 +631,7 @@ By [Adrien Roches](https://connect.symfony.com/profile/neirda24)
   <dd>We've all been there: After a lot of discussion the team can still not agree on a given solution. A majority vote makes the decision, but that leaves team members unhappy and unsatisfied. What if I told you there is a way to make sure every team member is heard and will support the eventual team decision? In this talk, I will introduce the concept of sociocracy, a method for discussion and decision-making.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://speakerdeck.com/skoop/how-to-make-good-decisions-with-a-happy-team-symfonycon-2025)  
 [Video](https://live.symfony.com/account/replay/video/1135) <sup>(not free)</sup>  
 ~~Blog post~~
 
