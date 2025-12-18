@@ -677,7 +677,7 @@ By [Oskar Barcz](https://connect.symfony.com/profile/oskarbarcz)
   <dd>Go beyond classic automation and discover the intelligent, secure CI/CD pipeline of the future. This session uses a concrete, containerized Symfony application to demonstrate the key pillars of a next-generation software delivery lifecycle. We will explore how to drive the entire pipeline with GitOps as the single source of truth, how to integrate "Zero-Trust" security at every stage (SAST, DAST, secrets), how to leverage AI to predict regressions and optimize deployments, how to unify DevOps and MLOps to manage both application and model lifecycles, and how to build a native multi-cloud architecture using Kubernetes and Kustomize.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://speakerdeck.com/herveleclerc/cd-pipelines-in-2025-gitops-ia-et-zero-trust-in-action)  
 [Video](https://live.symfony.com/account/replay/video/1163) <sup>(not free)</sup>  
 ~~Blog post~~
 
