@@ -20,7 +20,7 @@
 ## Keynote · 20 years of Symfony, what's next?
 
 [Slides](https://speakerdeck.com/fabpot/20-years-of-symfony-whats-next)  
-~~Video~~  
+[Video](https://live.symfony.com/account/replay/video/1131)  
 [Symfony 8 page](http://symfony.com/8)  
 [Symfony curated new features](https://symfony.com/blog/symfony-7-4-curated-new-features)
 
