@@ -611,7 +611,7 @@ Naturally, we used it in `SensioLabs/GotenbergBundle`, a real-world use case.
 Join us and learn how to empower PHP for your CI and eliminate the YAML!</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://neirda24.github.io/2025-11.SymfonyCon/)  
 [Video](https://live.symfony.com/account/replay/video/1162) <sup>(not free)</sup>  
 ~~Blog post~~
 
