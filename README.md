@@ -239,7 +239,7 @@ We'll also cover advanced features like cold storage, replication, and practical
 Whether you're working with e-commerce applications, logs, user events, IoT data, or business metrics, this talk will equip you with the knowledge to implement ClickHouse as a powerful addition to your PHP development toolkit.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://speakerdeck.com/romainneutron/clickhouse-for-symfony-developers-symfonycon-2025)  
 [Video](https://live.symfony.com/account/replay/video/1148) <sup>(not free)</sup>  
 ~~Blog post~~  
 [Demo project · ClickHouse for Symfony Developers](https://github.com/romainneutron/clickhouse-symfony-symfonycon2025)
