@@ -855,7 +855,7 @@ By [Kris Wallsmith](https://connect.symfony.com/profile/kriswallsmith)
 We will also highlight how Git is a brilliant embodiment of Unix philosophy: small, composable tools; reliance on the filesystem; text-based formats; and simplicity in interface with power in composition. Even in its minimal form, Git introduced key operations such as SHA-1 hashing, snapshot storage, and a filesystem-based object database that collectively reflect deep design clarity.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://drive.google.com/file/d/16wsjl9W5Q3iMtvDqq3nRKchG-_ZnkzEQ/view)  
 [Video](https://live.symfony.com/account/replay/video/1147) <sup>(not free)</sup>  
 ~~Blog post~~
 
