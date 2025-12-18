@@ -562,7 +562,7 @@ By [Christopher Hertel](https://connect.symfony.com/profile/chertel)
   <dd>Symfony is evolving and you may ask yourself whether your application can keep up. This presentation aims to show coding techniques and design patterns that will make future Symfony upgrades much easier, even if we don't know what the future holds!</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://speakerdeck.com/afilina/surviving-a-symfony-upgrade)  
 [Video](https://live.symfony.com/account/replay/video/1133) <sup>(not free)</sup>  
 ~~Blog post~~
 
