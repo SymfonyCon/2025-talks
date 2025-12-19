@@ -11,6 +11,7 @@
 
 #### Blog post & videos about the event <sup>[[add link]](https://github.com/SymfonyCon/2025-talks/edit/main/README.md)</sup>
 
+- [PHP Performance at SymfonyCon](https://www.youtube.com/watch?v=FVOr4e4ELUI) <sup>(video)</sup> by [Benjamin Eberlei](https://github.com/beberlei)
 - [Damian.Dziaduch.pl/blog](https://damian.dziaduch.pl/2025/12/08/symfonycon-2025-my-first-international-workshop-experience/) <sup>[![rss](icon/rss.svg)](https://damian.dziaduch.pl/feed/)</sup>  
 - [Les-Tilleuls.coop/blog](https://les-tilleuls.coop/blog/symfonycon-amsterdam-2025-20-ans-et-une-energie-dadolescent) <sup>[![rss](icon/rss.svg)](https://les-tilleuls.coop/feed.xml)</sup>  
 - [SensioLabs.com/fr/blog](https://sensiolabs.com/fr/blog/2025/symfonycon-amsterdam-2025-bilan-moments-forts) <sup>[![rss](icon/rss.svg)](https://sensiolabs.com/fr/rss.xml)</sup>  
