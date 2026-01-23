@@ -860,6 +860,7 @@ We will also highlight how Git is a brilliant embodiment of Unix philosophy: sma
 [Slides](https://drive.google.com/file/d/16wsjl9W5Q3iMtvDqq3nRKchG-_ZnkzEQ/view)  
 [Video](https://live.symfony.com/account/replay/video/1147) <sup>(not free)</sup>  
 ~~Blog post~~
+[Code example](https://github.com/valentinboyanov/git-symfony/)
 
 By [Valentin Rusev](https://connect.symfony.com/profile/valentinrusev)  
 💻 on [![github](icon/github.svg) @valentinboyanov](https://github.com/valentinboyanov)  
