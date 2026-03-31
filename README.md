@@ -731,7 +731,7 @@ By [Mathias Arlaud](https://connect.symfony.com/profile/mtarld)
 In this talk, we’ll replace part of our logic with a native helper using PHP’s FFI and Rust. We’ll explore performance gains, show practical implementation steps, and discuss when native code makes sense. And finally, I’ll share a skeleton project so you can start experimenting in tonight.</dd>
 </dl>
 
-~~Slides~~  
+[Slides](https://docs.google.com/presentation/d/11MGhIGZyv_UT5lnhPTaguGyO4y9Dn6mDJWGr3OVytl0/edit?slide=id.p#slide=id.p)  
 [Video](https://live.symfony.com/account/replay/video/1150) <sup>(not free)</sup>  
 ~~Blog post~~
 
