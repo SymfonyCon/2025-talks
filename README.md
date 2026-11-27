@@ -6,7 +6,7 @@
 > [!NOTE]  
 > - All talks are in **English**.
 > - You can send feedback and love to speakers on their social networks.
-> - Social posts during the event: [Blusky](https://bsky.app/search?q=%23symfonycon+since%3A2025-11-26+until%3A2025-11-30) · [Mastodon](https://mastodon.social/tags/symfonycon) · [Twitter](https://x.com/search?q=(%23symfonycon%20OR%20%40symfonycon)%20until%3A2025-11-30%20since%3A2025-11-26%20-filter%3Areplies&src=typed_query)
+> - Social posts during the event: [Bluesky](https://bsky.app/search?q=%23symfonycon+since%3A2025-11-26+until%3A2025-11-30) · [Mastodon](https://mastodon.social/tags/symfonycon) · [Twitter](https://x.com/search?q=(%23symfonycon%20OR%20%40symfonycon)%20until%3A2025-11-30%20since%3A2025-11-26%20-filter%3Areplies&src=typed_query)
 > - [Photos during the event](https://pixi.live/gallery/symfonycon-amsterdam-2025)
 
 #### Blog post & videos about the event <sup>[[add link]](https://github.com/SymfonyCon/2025-talks/edit/main/README.md)</sup>
